@@ -1,4 +1,4 @@
-24427421992168096
+24453496313663005
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -68166,6 +68166,13 @@ threaded screw
 4
 1
 My_Footprints
+AOTA-B201610S3R3-101-T
+Inductor with Polarity Marking 2016
+
+0
+2
+2
+My_Footprints
 MMBT2907AM3T5G
 SOT−723 CASE 631AA−01 ISSUE D_1
 TVS Diode (Bi-directional)
@@ -68173,12 +68180,103 @@ TVS Diode (Bi-directional)
 3
 3
 My_Footprints
+P090S14T20BR10K
+P090S-14T20BR10K
+Variable Resistor
+0
+5
+5
+My_Footprints
+PTS 647 SN50 SMTR2 LFS
+
+PTS 647 SN50 SMTR2 LFS 
+0
+4
+4
+My_Footprints
+PTS 647 SN50 SMTR2 LFS-L
+
+PTS 647 SN50 SMTR2 LFS 
+0
+4
+4
+My_Footprints
+PTS 647 SN50 SMTR2 LFS-M
+
+PTS 647 SN50 SMTR2 LFS 
+0
+4
+4
+My_Footprints
+PWP0020C_L
+
+TPS75233QPWPREP 
+0
+36
+22
+My_Footprints
+PWP0020C_M
+
+TPS75233QPWPREP 
+0
+36
+22
+My_Footprints
+PWP0020C_N
+
+TPS75233QPWPREP 
+0
+30
+22
+My_Footprints
+RP2350-QFN-60-1EP_7x7_P0.4mm_EP3.4x3.4mm_ThermalVias
+Raspberry Pi RP2350 QFN-60
+QFN DFN_QFN
+0
+74
+61
+My_Footprints
+RP2350-QFN-80-1EP_10x10_P0.4mm_EP3.4x3.4mm_ThermalVias
+
+
+0
+102
+81
+My_Footprints
 RP2350A_QFN-60_EP_7.75x7.75_Pitch0.4mm
 
 
 0
 86
 61
+My_Footprints
+SN74HC14DR_D14
+
+SN74HC14DR 
+0
+14
+14
+My_Footprints
+SN74HC14DR_D14-L
+
+SN74HC14DR 
+0
+14
+14
+My_Footprints
+SN74HC14DR_D14-M
+
+SN74HC14DR 
+0
+14
+14
+My_Footprints
+SOIC127P790X216-8N
+W25Q128JVSIQ
+Integrated Circuit
+0
+8
+8
 My_Footprints
 SOT-723_0P85X1P25_ONS
 
@@ -68197,6 +68295,13 @@ My_Footprints
 SOT-723_0P85X1P25_ONS-M
 
 ESD7L5.0DT5G 
+0
+3
+3
+My_Footprints
+SOT96P240X110-3N
+DMP1045U-7-
+Integrated Circuit
 0
 3
 3

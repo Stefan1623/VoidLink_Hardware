@@ -188,7 +188,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "06967724-a55f-4f5c-a31d-223d79ca7adf")
 	)
-	(model "/Users/stefan/Documents/KiCad/8.0/3dmodels/My_Inductors/AOTA-B201610S3R3-101-T/AOTA-B201610S3R3-101-T.stp"
+	(model "${KIPRJMOD}/3dmodels/My_Inductors/AOTA-B201610S3R3-101-T/AOTA-B201610S3R3-101-T.stp"
 		(offset
 			(xyz 0 0 0)
 		)

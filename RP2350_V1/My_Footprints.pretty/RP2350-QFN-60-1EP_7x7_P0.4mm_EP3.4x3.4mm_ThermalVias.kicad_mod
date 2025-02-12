@@ -853,7 +853,7 @@
 		(zone_connect 2)
 		(uuid "e6881d6d-6811-4584-8bc3-dfda42f2b4fb")
 	)
-	(model "${KIPRJMOD}/RP2350_QFN60.step"
+	(model "${KIPRJMOD}/3dmodels/My_ICs/RP2350A-QFN60.step"
 		(offset
 			(xyz 0 0 0.05)
 		)
