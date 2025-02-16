@@ -11845,6 +11845,17 @@
 		)
 		(uuid "0325e5c4-0bf7-47a9-9075-a946f1386026")
 	)
+	(label "PG"
+		(at 257.81 236.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "037ec366-936a-44d7-9947-f26d775cea0d")
+	)
 	(label "QSPI_SCLK"
 		(at 288.29 115.57 0)
 		(fields_autoplaced yes)
@@ -12153,6 +12164,17 @@
 		)
 		(uuid "54767957-bf77-47c2-8dbc-6c10f47e2a98")
 	)
+	(label "COMP_FSET"
+		(at 229.87 238.76 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5604a6af-0bd1-4370-90b9-b7d25855d239")
+	)
 	(label "BTN_BACK"
 		(at 161.29 44.45 0)
 		(fields_autoplaced yes)
@@ -12339,6 +12361,17 @@
 			(justify left bottom)
 		)
 		(uuid "7d75835f-6794-4fdb-aa58-261ca47f46b3")
+	)
+	(label "FB"
+		(at 257.81 231.14 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "80faf3ec-638f-401c-94b2-3d39fa7b8ca9")
 	)
 	(label "SPI0_TX"
 		(at 373.38 137.16 0)
@@ -15170,7 +15203,7 @@
 		(dnp no)
 		(uuid "3659a96a-17f2-4772-8405-1e9ec121f366")
 		(property "Reference" "C19"
-			(at 216.662 239.268 0)
+			(at 217.932 242.316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15179,7 +15212,7 @@
 			)
 		)
 		(property "Value" "22u"
-			(at 216.662 241.808 0)
+			(at 217.932 244.856 0)
 			(effects
 				(font
 					(size 1.27 1.27)
