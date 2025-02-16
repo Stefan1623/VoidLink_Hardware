@@ -1,4 +1,4 @@
-24460454969215851
+24467393808392150
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -68173,6 +68173,13 @@ Inductor with Polarity Marking 2016
 2
 2
 My_Footprints
+C_0402_1005Metric_small_pads
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+My_Footprints
 DBV6
 
 TLV3012AIDBVR 
@@ -68193,6 +68200,27 @@ TLV3012AIDBVR
 0
 6
 6
+My_Footprints
+LEDC1608X35N_red
+
+
+0
+2
+2
+My_Footprints
+LEDC1608X55N_orange
+
+
+0
+2
+2
+My_Footprints
+LEDM1608X80_blue
+
+
+0
+2
+2
 My_Footprints
 MMBT2907AM3T5G
 SOT−723 CASE 631AA−01 ISSUE D_1
