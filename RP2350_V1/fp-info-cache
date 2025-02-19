@@ -1,4 +1,4 @@
-24467393809020087
+24476104259394138
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -68166,6 +68166,13 @@ threaded screw
 4
 1
 My_Footprints
+ABM8-272-T3_ABR
+
+ABM8-272-T3 
+0
+4
+4
+My_Footprints
 AOTA-B201610S3R3-101-T
 Inductor with Polarity Marking 2016
 
@@ -68197,6 +68204,13 @@ My_Footprints
 DBV6-M
 
 TLV3012AIDBVR 
+0
+6
+6
+My_Footprints
+DCK6
+
+TLV3012AIDCKR 
 0
 6
 6
@@ -68257,6 +68271,13 @@ PTS 647 SN50 SMTR2 LFS
 4
 4
 My_Footprints
+PTS 647 SN70 SMTR2 LFS
+
+PTS647SN70SMTR2LFS 
+0
+4
+4
+My_Footprints
 PWP0020C_L
 
 TPS75233QPWPREP 
@@ -68285,6 +68306,13 @@ QFN DFN_QFN
 74
 61
 My_Footprints
+RP2350-QFN-60-1EP_7x7_P0.4mm_EP3.4x3.4mm_ThermalVias_NEW
+Raspberry Pi RP2350 QFN-60
+QFN DFN_QFN
+0
+74
+61
+My_Footprints
 RP2350-QFN-80-1EP_10x10_P0.4mm_EP3.4x3.4mm_ThermalVias
 
 
@@ -68296,7 +68324,7 @@ RP2350A_QFN-60_EP_7.75x7.75_Pitch0.4mm
 
 
 0
-86
+77
 61
 My_Footprints
 RWY0009A
@@ -68330,6 +68358,13 @@ My_Footprints
 SOIC127P790X216-8N
 W25Q128JVSIQ
 Integrated Circuit
+0
+8
+8
+My_Footprints
+SOIC_128JVSIQ_WIN
+
+W25Q128JVSIQ 
 0
 8
 8
