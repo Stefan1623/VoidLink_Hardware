@@ -1,4 +1,4 @@
-24476104259394138
+24477844239702283
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -68176,6 +68176,13 @@ My_Footprints
 AOTA-B201610S3R3-101-T
 Inductor with Polarity Marking 2016
 
+0
+2
+2
+My_Footprints
+CAP_CL05_SAM
+
+CL05A475KP5NRNC 
 0
 2
 2
