@@ -5868,7 +5868,7 @@
 				)
 			)
 		)
-		(symbol "My_Library:SMF12A"
+		(symbol "My_Library:SMF12CA"
 			(pin_names
 				(offset 0.254)
 			)
@@ -5876,22 +5876,22 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "CR"
-				(at 5.08 4.445 0)
+				(at 6.35 5.08 0)
 				(effects
 					(font
 						(size 1.524 1.524)
 					)
 				)
 			)
-			(property "Value" "SMF12A"
-				(at 5.08 -3.81 0)
+			(property "Value" "SMF12CA"
+				(at 6.35 -3.81 0)
 				(effects
 					(font
 						(size 1.524 1.524)
 					)
 				)
 			)
-			(property "Footprint" "SMFSeries_LTF"
+			(property "Footprint" "SOD-123F_LTF"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5901,7 +5901,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "SMF12A"
+			(property "Datasheet" "SMF12CA"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5928,7 +5928,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "SMF12A"
+			(property "ki_keywords" "SMF12CA"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5937,7 +5937,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "SMFSeries_LTF SMFSeries_LTF-M SMFSeries_LTF-L"
+			(property "ki_fp_filters" "SOD-123F_LTF SOD-123F_LTF-M SOD-123F_LTF-L"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5946,7 +5946,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "SMF12A_1_1"
+			(symbol "SMF12CA_0_1"
 				(polyline
 					(pts
 						(xy 2.54 0) (xy 3.4798 0)
@@ -5997,7 +5997,7 @@
 				)
 				(polyline
 					(pts
-						(xy 6.35 -1.905) (xy 6.35 1.905)
+						(xy 6.35 -1.905) (xy 5.715 -1.905)
 					)
 					(stroke
 						(width 0.2032)
@@ -6021,7 +6021,79 @@
 				)
 				(polyline
 					(pts
-						(xy 6.35 0) (xy 7.62 0)
+						(xy 6.35 0) (xy 8.89 -1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 1.905) (xy 6.35 -1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 1.905) (xy 6.985 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 -1.905) (xy 8.89 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 1.905) (xy 6.35 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.525 0) (xy 8.89 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 9.2202 0)
 					)
 					(stroke
 						(width 0.2032)
@@ -6032,7 +6104,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 10.16 0 180)
+					(at 12.7 0 180)
 					(length 2.54)
 					(name ""
 						(effects
@@ -6051,128 +6123,6 @@
 				)
 				(pin unspecified line
 					(at 0 0 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "SMF12A_1_2"
-				(polyline
-					(pts
-						(xy -1.905 3.81) (xy 1.905 3.81)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0 3.4798)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 3.175) (xy 0 3.81)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 6.35) (xy -1.905 3.81)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 6.35) (xy 0 7.62)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.905 3.81) (xy 0 6.35)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.905 6.35) (xy -1.905 6.35)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at 0 10.16 270)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 0 90)
 					(length 2.54)
 					(name ""
 						(effects
@@ -7865,6 +7815,24 @@
 		(uuid "1cdcb171-01ba-4e74-a0c5-558d63af658b")
 	)
 	(junction
+		(at 148.59 254)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1ec05d6b-ee4b-444d-880b-6f4c4ebc951a")
+	)
+	(junction
+		(at 95.25 223.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "20cec7bf-03bb-4429-9c70-f87850bed8ec")
+	)
+	(junction
+		(at 137.16 240.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "22018ddf-457e-445f-8d9d-2fcaead26622")
+	)
+	(junction
 		(at 130.81 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7899,12 +7867,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3014cede-28db-4ebe-9c50-23478eebf61e")
-	)
-	(junction
-		(at 138.43 240.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "32f09d6e-b0dc-4eca-8a02-09c24ea6b0b1")
 	)
 	(junction
 		(at 242.57 72.39)
@@ -8003,12 +7965,6 @@
 		(uuid "4e6415cf-02d8-45c7-a909-6b39155b01bc")
 	)
 	(junction
-		(at 95.25 223.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "521eaf3c-d3e2-4c48-b91e-64f533ec79b7")
-	)
-	(junction
 		(at 281.94 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8067,12 +8023,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c190b27-4baf-470e-ac28-c053d0987932")
-	)
-	(junction
-		(at 151.13 254)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5c539a8c-c020-4215-b804-40a7875f7e02")
 	)
 	(junction
 		(at 317.5 35.56)
@@ -8141,6 +8091,12 @@
 		(uuid "6f4e7234-228d-4851-adfc-5a13fd180279")
 	)
 	(junction
+		(at 137.16 254)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6fad66ed-65e1-4cb4-8418-b4f936cda40a")
+	)
+	(junction
 		(at 50.8 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8175,12 +8131,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7f1487c6-d433-420e-a525-bc175b7cf40b")
-	)
-	(junction
-		(at 138.43 254)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "809b3b8a-8dcf-4c66-8470-890dc7cc0d12")
 	)
 	(junction
 		(at 50.8 82.55)
@@ -8309,6 +8259,12 @@
 		(uuid "bf903e2c-18b7-4670-9939-10287f0d7fd0")
 	)
 	(junction
+		(at 148.59 240.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c0189296-555b-44f1-81aa-8ea6356f2ff8")
+	)
+	(junction
 		(at 328.93 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8415,12 +8371,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ff32f12a-0b19-422f-8341-c858f15f2fbd")
-	)
-	(junction
-		(at 151.13 240.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ff36c3c0-fc04-4d21-910e-0e7fae740317")
 	)
 	(no_connect
 		(at 364.49 149.86)
@@ -8542,7 +8492,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 240.03) (xy 138.43 240.03)
+			(xy 134.62 240.03) (xy 137.16 240.03)
 		)
 		(stroke
 			(width 0)
@@ -8699,16 +8649,6 @@
 			(type default)
 		)
 		(uuid "0c2ad950-07cc-4652-b75f-36ddab12e9ce")
-	)
-	(wire
-		(pts
-			(xy 138.43 240.03) (xy 151.13 240.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d5ad2b5-3a20-4dd7-9a25-7d524b2f28bc")
 	)
 	(wire
 		(pts
@@ -8872,16 +8812,6 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 240.03) (xy 162.56 240.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16cea307-2d33-4215-aa7e-32304a6cab79")
-	)
-	(wire
-		(pts
 			(xy 50.8 236.22) (xy 54.61 236.22)
 		)
 		(stroke
@@ -9002,6 +8932,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 240.03) (xy 162.56 240.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e21ad6e-0213-4c2c-8616-4ac8c7390fd4")
+	)
+	(wire
+		(pts
 			(xy 354.33 240.03) (xy 354.33 236.22)
 		)
 		(stroke
@@ -9082,7 +9022,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 240.03) (xy 138.43 242.57)
+			(xy 137.16 240.03) (xy 137.16 242.57)
 		)
 		(stroke
 			(width 0)
@@ -9222,7 +9162,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 254) (xy 138.43 250.19)
+			(xy 137.16 254) (xy 137.16 250.19)
 		)
 		(stroke
 			(width 0)
@@ -9439,6 +9379,16 @@
 			(type default)
 		)
 		(uuid "35b1f459-23af-46b3-90a9-4cde7e0b140d")
+	)
+	(wire
+		(pts
+			(xy 148.59 252.73) (xy 148.59 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36ac771d-5ad8-42b5-9f9a-b365b9cf7bd8")
 	)
 	(wire
 		(pts
@@ -9729,6 +9679,16 @@
 			(type default)
 		)
 		(uuid "48688e4b-6eac-4f61-acda-e0f95833a5ad")
+	)
+	(wire
+		(pts
+			(xy 95.25 223.52) (xy 109.22 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48851c1c-8ed0-4e67-97b5-4ca73a45b071")
 	)
 	(wire
 		(pts
@@ -10182,16 +10142,6 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 254) (xy 162.56 254)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "65a32489-721e-4c78-abae-8b1a8ebfa126")
-	)
-	(wire
-		(pts
 			(xy 54.61 241.3) (xy 54.61 243.84)
 		)
 		(stroke
@@ -10382,7 +10332,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 223.52) (xy 109.22 223.52)
+			(xy 86.36 223.52) (xy 95.25 223.52)
 		)
 		(stroke
 			(width 0)
@@ -10529,16 +10479,6 @@
 			(type default)
 		)
 		(uuid "7ebdf88c-2c77-4824-8358-c37e88c8890b")
-	)
-	(wire
-		(pts
-			(xy 151.13 240.03) (xy 151.13 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f46f412-13d9-49c0-a000-45c715ed4cc2")
 	)
 	(wire
 		(pts
@@ -10852,16 +10792,6 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 223.52) (xy 95.25 223.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "96c25f75-0b39-4ad3-83c2-f314f7f2bdb1")
-	)
-	(wire
-		(pts
 			(xy 29.21 190.5) (xy 41.91 190.5)
 		)
 		(stroke
@@ -11052,16 +10982,6 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 251.46) (xy 151.13 254)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f9c0a2a-60fa-4861-967d-41946cee8be3")
-	)
-	(wire
-		(pts
 			(xy 158.75 179.07) (xy 171.45 179.07)
 		)
 		(stroke
@@ -11122,7 +11042,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 254) (xy 138.43 254)
+			(xy 124.46 254) (xy 137.16 254)
 		)
 		(stroke
 			(width 0)
@@ -11392,16 +11312,6 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 233.68) (xy 95.25 236.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "baca0260-8db2-48ad-af46-0164e365ca03")
-	)
-	(wire
-		(pts
 			(xy 242.57 64.77) (xy 242.57 67.31)
 		)
 		(stroke
@@ -11469,6 +11379,16 @@
 			(type default)
 		)
 		(uuid "bd8b5a4f-9ff7-4d9f-ba4e-5837506d1a55")
+	)
+	(wire
+		(pts
+			(xy 148.59 254) (xy 162.56 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be479798-8fe5-42c3-a432-1b6091f7855b")
 	)
 	(wire
 		(pts
@@ -11992,6 +11912,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 254) (xy 148.59 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e88b20c1-582f-4e61-8103-96687ddf3b70")
+	)
+	(wire
+		(pts
 			(xy 242.57 72.39) (xy 242.57 81.28)
 		)
 		(stroke
@@ -11999,16 +11929,6 @@
 			(type default)
 		)
 		(uuid "e9200af6-7b87-42fa-82da-18f76040a7bc")
-	)
-	(wire
-		(pts
-			(xy 138.43 254) (xy 151.13 254)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e930cf05-3773-4388-b048-7dcc2789f435")
 	)
 	(wire
 		(pts
@@ -12249,6 +12169,16 @@
 			(type default)
 		)
 		(uuid "fab75295-d2ad-4840-9948-bcbe11dfe88e")
+	)
+	(wire
+		(pts
+			(xy 137.16 240.03) (xy 148.59 240.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "faed05d1-44df-4eee-9626-561f39574107")
 	)
 	(wire
 		(pts
@@ -13280,7 +13210,7 @@
 		(uuid "c5bf4bd4-75ea-4a85-a6ee-0813bb132f70")
 	)
 	(label "VBAT"
-		(at 138.43 240.03 0)
+		(at 137.16 240.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16940,77 +16870,6 @@
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8"
 					(reference "C31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "My_Library:SMF12A")
-		(at 95.25 233.68 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4585bba0-1aee-491b-9549-f9bcbdbd5a20")
-		(property "Reference" "CR1"
-			(at 97.79 228.346 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SMF12A"
-			(at 96.266 231.902 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "My_Footprints:SMFSeries_SOD-123F"
-			(at 95.25 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "SMF12A"
-			(at 95.25 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 95.25 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f6a9818a-4e5e-45a9-aef7-50a0f032856a")
-		)
-		(pin "1"
-			(uuid "bb97b41d-8bf8-423d-8e79-4e58822d5baf")
-		)
-		(instances
-			(project ""
-				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8"
-					(reference "CR1")
 					(unit 1)
 				)
 			)
@@ -20828,77 +20687,6 @@
 		)
 	)
 	(symbol
-		(lib_id "My_Library:SMF12A")
-		(at 151.13 251.46 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "92fe3c76-0599-4c10-904f-b77bca764232")
-		(property "Reference" "CR2"
-			(at 153.67 246.126 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SMF12A"
-			(at 152.146 249.682 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "My_Footprints:SMFSeries_SOD-123F"
-			(at 151.13 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "SMF12A"
-			(at 151.13 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 151.13 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d810e18e-fe1a-446f-8f3f-cec6546c7c19")
-		)
-		(pin "1"
-			(uuid "a15478ed-d36f-43a2-aef3-79c8acfe953f")
-		)
-		(instances
-			(project "RP2350_V1"
-				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8"
-					(reference "CR2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 222.25 255.27 0)
 		(unit 1)
@@ -21029,6 +20817,77 @@
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8"
 					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "My_Library:SMF12CA")
+		(at 95.25 236.22 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "97b3f58a-1d97-4300-9dcb-584f4c20b84c")
+		(property "Reference" "CR1"
+			(at 98.044 230.378 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SMF12CA"
+			(at 96.266 234.188 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "My_Footprints:SMFSeries_SOD-123F"
+			(at 95.25 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "SMF12CA"
+			(at 95.25 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 95.25 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "29e0c384-653a-4b36-8a81-1812221b7fd8")
+		)
+		(pin "2"
+			(uuid "420ec150-bbf2-42d6-a50b-27bf3b431c92")
+		)
+		(instances
+			(project ""
+				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8"
+					(reference "CR1")
 					(unit 1)
 				)
 			)
@@ -21314,6 +21173,77 @@
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8"
 					(reference "#PWR065")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "My_Library:SMF12CA")
+		(at 148.59 252.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a1e03997-3874-4d72-b6d5-b348abe0c644")
+		(property "Reference" "CR2"
+			(at 151.13 245.618 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SMF12CA"
+			(at 151.13 248.412 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "My_Footprints:SMFSeries_SOD-123F"
+			(at 148.59 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "SMF12CA"
+			(at 148.59 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 148.59 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f9ea787d-8474-476e-846c-6ed0386daf37")
+		)
+		(pin "2"
+			(uuid "2b8479a4-f9da-41c9-82b1-b7307325d3a8")
+		)
+		(instances
+			(project ""
+				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8"
+					(reference "CR2")
 					(unit 1)
 				)
 			)
@@ -24379,7 +24309,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 138.43 246.38 0)
+		(at 137.16 246.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24387,7 +24317,7 @@
 		(dnp no)
 		(uuid "e2cd9dce-d128-4406-8519-0915e2b0ee25")
 		(property "Reference" "C18"
-			(at 142.24 245.1099 0)
+			(at 139.7 244.856 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24396,7 +24326,7 @@
 			)
 		)
 		(property "Value" "4.7u"
-			(at 142.24 247.6499 0)
+			(at 139.7 247.396 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24405,7 +24335,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 139.3952 250.19 0)
+			(at 138.1252 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24414,7 +24344,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 138.43 246.38 0)
+			(at 137.16 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24423,7 +24353,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 138.43 246.38 0)
+			(at 137.16 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
