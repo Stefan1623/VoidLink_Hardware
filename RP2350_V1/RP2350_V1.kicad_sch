@@ -12414,7 +12414,7 @@
 		)
 		(uuid "9d47c938-9aec-4308-afa1-fca8f5618b7b")
 	)
-	(text "Orange\n2V\n20mA"
+	(text "Orange\n2V\n30mA"
 		(exclude_from_sim no)
 		(at 43.942 187.452 0)
 		(effects
@@ -12425,7 +12425,7 @@
 		)
 		(uuid "a20ac7d2-b825-4e98-a931-f978ea51b9f4")
 	)
-	(text "Red\n2V\n20mA"
+	(text "Red\n2V\n25mA"
 		(exclude_from_sim no)
 		(at 69.85 177.546 0)
 		(effects
@@ -15473,7 +15473,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120"
+		(property "Value" "73.3"
 			(at 39.624 173.99 90)
 			(effects
 				(font
@@ -19430,7 +19430,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "85"
 			(at 26.924 173.99 90)
 			(effects
 				(font
@@ -25249,7 +25249,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120"
+		(property "Value" "88"
 			(at 65.024 163.83 90)
 			(effects
 				(font

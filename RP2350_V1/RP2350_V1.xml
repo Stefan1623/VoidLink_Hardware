@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/Users/stefan/Library/CloudStorage/OneDrive-McMasterUniversity/5th Year/ELECENG 4OI6/RP2350_V1/RP2350_V1.kicad_sch</source>
-    <date>2025-02-19T11:43:53-0500</date>
+    <date>2025-02-20T16:38:13-0500</date>
     <tool>Eeschema 8.0.7</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -554,6 +554,40 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6dc8a617-0fba-42ec-b753-99c5ea7d2785</tstamps>
+    </comp>
+    <comp ref="CR1">
+      <value>SMF12CA</value>
+      <footprint>My_Footprints:SMFSeries_SOD-123F</footprint>
+      <datasheet>SMF12CA</datasheet>
+      <fields>
+        <field name="Footprint">My_Footprints:SMFSeries_SOD-123F</field>
+        <field name="Datasheet">SMF12CA</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="My_Library" part="SMF12CA" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="ki_keywords" value="SMF12CA"/>
+      <property name="ki_fp_filters" value="SOD-123F_LTF SOD-123F_LTF-M SOD-123F_LTF-L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97b3f58a-1d97-4300-9dcb-584f4c20b84c</tstamps>
+    </comp>
+    <comp ref="CR2">
+      <value>SMF12CA</value>
+      <footprint>My_Footprints:SMFSeries_SOD-123F</footprint>
+      <datasheet>SMF12CA</datasheet>
+      <fields>
+        <field name="Footprint">My_Footprints:SMFSeries_SOD-123F</field>
+        <field name="Datasheet">SMF12CA</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="My_Library" part="SMF12CA" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="ki_keywords" value="SMF12CA"/>
+      <property name="ki_fp_filters" value="SOD-123F_LTF SOD-123F_LTF-M SOD-123F_LTF-L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1e03997-3874-4d72-b6d5-b348abe0c644</tstamps>
     </comp>
     <comp ref="D1">
       <value>MBR0520LT</value>
@@ -1376,7 +1410,7 @@
       <tstamps>463b22eb-47bc-4a5b-ac6d-359c036585fa</tstamps>
     </comp>
     <comp ref="R28">
-      <value>100</value>
+      <value>85</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <description>Resistor</description>
       <fields>
@@ -1444,7 +1478,7 @@
       <tstamps>b90a53fc-77eb-4cfe-928a-2af98a764fca</tstamps>
     </comp>
     <comp ref="R32">
-      <value>120</value>
+      <value>73.3</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <description>Resistor</description>
       <fields>
@@ -1461,7 +1495,7 @@
       <tstamps>2d548a4c-3e4a-43fa-b74e-c4784759e3cb</tstamps>
     </comp>
     <comp ref="R33">
-      <value>120</value>
+      <value>88</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <description>Resistor</description>
       <fields>
@@ -1757,7 +1791,7 @@
       <property name="ki_keywords" value="HCMOS not inverter"/>
       <property name="ki_fp_filters" value="DIP*W7.62mm*"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>f24985a1-566e-4efc-b665-85cbe1e949fe e51d92cd-eddd-47ba-8422-91b4d20143d2 8f798589-5a0e-442c-b960-33823183785e 4fdacec7-96c7-4675-8b29-dff4c590f38d 73de7325-9545-4da5-a088-c0fa1c5e34f4 426197c1-4c91-4467-ba14-7b852892b409 36fb0383-e347-498d-9ae5-e8fe1b8d4a34</tstamps>
+      <tstamps>73de7325-9545-4da5-a088-c0fa1c5e34f4 4fdacec7-96c7-4675-8b29-dff4c590f38d 426197c1-4c91-4467-ba14-7b852892b409 8f798589-5a0e-442c-b960-33823183785e e51d92cd-eddd-47ba-8422-91b4d20143d2 f24985a1-566e-4efc-b665-85cbe1e949fe 36fb0383-e347-498d-9ae5-e8fe1b8d4a34</tstamps>
     </comp>
     <comp ref="X1">
       <value>ABM8-272-T3</value>
@@ -2230,6 +2264,25 @@
         <pin num="C" name="" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="My_Library" part="SMF12CA">
+      <docs>SMF12CA</docs>
+      <footprints>
+        <fp>SOD-123F_LTF</fp>
+        <fp>SOD-123F_LTF-M</fp>
+        <fp>SOD-123F_LTF-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">CR</field>
+        <field name="Value">SMF12CA</field>
+        <field name="Footprint">SOD-123F_LTF</field>
+        <field name="Datasheet">SMF12CA</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="unspecified"/>
+        <pin num="2" name="" type="unspecified"/>
+      </pins>
+    </libpart>
     <libpart lib="My_Library" part="TLV3012AIDCKR">
       <docs>TLV3012AIDCKR</docs>
       <footprints>
@@ -2379,7 +2432,7 @@
       <node ref="U1" pin="53" pinfunction="USB_OTP_VDD" pintype="power_in"/>
       <node ref="U1" pin="54" pinfunction="QSPI_IOVDD" pintype="power_in"/>
       <node ref="U2" pin="8" pinfunction="VCC" pintype="power_in"/>
-      <node ref="U5" pin="3" pinfunction="IN+" pintype="input"/>
+      <node ref="U5" pin="6" pinfunction="V+" pintype="power_in"/>
       <node ref="U6" pin="14" pinfunction="VCC" pintype="power_in"/>
     </net>
     <net code="3" name="/BTN_BACK">
@@ -2551,10 +2604,11 @@
     <net code="41" name="/UVLO_RST">
       <node ref="R31" pin="1" pintype="passive"/>
       <node ref="R34" pin="1" pintype="passive"/>
-      <node ref="U5" pin="5" pinfunction="REF" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="OUT" pintype="output"/>
     </net>
     <net code="42" name="/VBAT">
       <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="CR2" pin="1" pintype="unspecified"/>
       <node ref="IC1" pin="3" pinfunction="D" pintype="passive"/>
       <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="R32" pin="1" pintype="passive"/>
@@ -2624,6 +2678,8 @@
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="C8" pin="2" pintype="passive"/>
       <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="CR1" pin="2" pintype="unspecified"/>
+      <node ref="CR2" pin="2" pintype="unspecified"/>
       <node ref="D2" pin="3" pinfunction="A" pintype="passive"/>
       <node ref="D4" pin="C" pinfunction="C" pintype="passive"/>
       <node ref="D5" pin="C" pintype="passive"/>
@@ -2670,7 +2726,7 @@
       <node ref="U2" pin="4" pinfunction="GND" pintype="power_in"/>
       <node ref="U3" pin="4" pinfunction="GND" pintype="power_in"/>
       <node ref="U4" pin="2" pinfunction="V_{SS}" pintype="power_in"/>
-      <node ref="U5" pin="4" pinfunction="IN-" pintype="input"/>
+      <node ref="U5" pin="2" pinfunction="V-" pintype="power_in"/>
       <node ref="U6" pin="7" pinfunction="GND" pintype="power_in"/>
       <node ref="X1" pin="2" pinfunction="2" pintype="unspecified"/>
       <node ref="X1" pin="4" pinfunction="4" pintype="unspecified"/>
@@ -2786,17 +2842,18 @@
       <node ref="R12" pin="1" pintype="passive"/>
       <node ref="U4" pin="5" pinfunction="PROG" pintype="input"/>
     </net>
-    <net code="74" name="Net-(U5-OUT)">
+    <net code="74" name="Net-(U5-IN+)">
       <node ref="R29" pin="2" pintype="passive"/>
       <node ref="R30" pin="1" pintype="passive"/>
-      <node ref="U5" pin="1" pinfunction="OUT" pintype="output"/>
+      <node ref="U5" pin="3" pinfunction="IN+" pintype="input"/>
     </net>
-    <net code="75" name="Net-(U5-V+)">
-      <node ref="U5" pin="2" pinfunction="V-" pintype="power_in"/>
-      <node ref="U5" pin="6" pinfunction="V+" pintype="power_in"/>
+    <net code="75" name="Net-(U5-IN-)">
+      <node ref="U5" pin="4" pinfunction="IN-" pintype="input"/>
+      <node ref="U5" pin="5" pinfunction="REF" pintype="power_in"/>
     </net>
     <net code="76" name="VBUS">
       <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="CR1" pin="1" pintype="unspecified"/>
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="IC1" pin="1" pinfunction="G" pintype="passive"/>
       <node ref="IC2" pin="1" pinfunction="G" pintype="passive"/>

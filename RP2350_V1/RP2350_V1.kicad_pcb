@@ -7829,7 +7829,7 @@
 				)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "85"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "00941634-c219-4dae-9455-5ff682b181e7")
@@ -12589,7 +12589,7 @@
 				)
 			)
 		)
-		(property "Value" "120"
+		(property "Value" "73.3"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "869a09fa-7805-4114-ac16-70a5b3256153")
@@ -22612,7 +22612,7 @@
 				)
 			)
 		)
-		(property "Value" "120"
+		(property "Value" "88"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "ea834892-498d-4940-b137-a4cb4a11b3ce")
@@ -23847,7 +23847,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm*")
-		(path "/e51d92cd-eddd-47ba-8422-91b4d20143d2")
+		(path "/73de7325-9545-4da5-a088-c0fa1c5e34f4")
 		(sheetname "Root")
 		(sheetfile "RP2350_V1.kicad_sch")
 		(attr smd)
