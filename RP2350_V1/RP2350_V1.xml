@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/Users/milenathibault/Documents/Capstone_Hardware/RP2350_V1/RP2350_V1.kicad_sch</source>
-    <date>2025-02-21T23:22:19-0500</date>
-    <tool>Eeschema 8.0.8</tool>
+    <source>/Users/stefan/Library/CloudStorage/OneDrive-McMasterUniversity/5th Year/ELECENG 4OI6/RP2350_V1/RP2350_V1.kicad_sch</source>
+    <date>2025-02-23T15:35:16-0500</date>
+    <tool>Eeschema 8.0.7</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>VoidLink</title>
@@ -2476,6 +2476,20 @@
         <pin num="61" name="GND" type="power_in"/>
       </pins>
     </libpart>
+    <libpart lib="Mechanical" part="Fiducial">
+      <description>Fiducial Marker</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Fiducial*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FID</field>
+        <field name="Value">Fiducial</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Fiducial Marker</field>
+      </fields>
+    </libpart>
     <libpart lib="Mechanical" part="MountingHole">
       <description>Mounting Hole without connection</description>
       <docs>~</docs>
@@ -2709,7 +2723,7 @@
       <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Memory_Flash.kicad_sym</uri>
     </library>
     <library logical="My_Library">
-      <uri>/Users/milenathibault/Documents/Capstone_Hardware/RP2350_V1/My_Library.kicad_sym</uri>
+      <uri>/Users/stefan/Library/CloudStorage/OneDrive-McMasterUniversity/5th Year/ELECENG 4OI6/RP2350_V1/My_Library.kicad_sym</uri>
     </library>
     <library logical="Power_Protection">
       <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Power_Protection.kicad_sym</uri>
