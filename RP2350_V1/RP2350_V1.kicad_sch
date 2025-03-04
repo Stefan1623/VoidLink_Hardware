@@ -28027,6 +28027,44 @@
 			)
 		)
 	)
+	(sheet
+		(at 85.09 151.13)
+		(size 33.02 53.34)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "374b7580-c712-4837-a7b5-2460a185bdb8")
+		(property "Sheetname" "SX1262"
+			(at 85.09 150.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SX1262kicad_sch.kicad_sch"
+			(at 85.09 205.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RP2350_V1"
+				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
