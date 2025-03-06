@@ -1,0 +1,192 @@
+(footprint "LEDC1608X55N_orange"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.5 -1.5 0)
+		(layer "F.SilkS")
+		(uuid "79767fb6-2204-4eea-9aab-b659bf33653b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LEDC1608X55N_orange"
+		(at 2.1926 1.1198 0)
+		(layer "F.Fab")
+		(uuid "195d776a-b7f6-409c-8759-d421f6c184dc")
+		(effects
+			(font
+				(size 0.48 0.48)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0f5095e7-2577-458e-b425-be304cda3885")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6ce67c3c-87b4-4a23-836e-817ce283e590")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6deb3d1f-000b-4f9e-8a20-f8b0f2e3b6cf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -1.815 0)
+		(end -1.715 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "d251ce52-7002-4bef-a410-b9732c4f3fd0")
+	)
+	(fp_line
+		(start -1.465 -0.715)
+		(end -1.465 0.715)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5f22d629-f687-4c23-8ed6-a36485136c0e")
+	)
+	(fp_line
+		(start -1.465 0.715)
+		(end 1.465 0.715)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c304a3d2-8ac9-417d-9b7e-bafa3bec188b")
+	)
+	(fp_line
+		(start 1.465 -0.715)
+		(end -1.465 -0.715)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e47e4e95-5808-45ae-a912-b98c89377cac")
+	)
+	(fp_line
+		(start 1.465 0.715)
+		(end 1.465 -0.715)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a404ea9d-8bcb-4e48-a2a4-84bc9cdc98ea")
+	)
+	(fp_line
+		(start -0.8 -0.4)
+		(end -0.8 0.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b0390d7b-f4c5-4259-aa64-98fbf4ff7eaf")
+	)
+	(fp_line
+		(start -0.8 0.4)
+		(end 0.8 0.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "baab7785-5405-4b1a-9174-261ef3cdd912")
+	)
+	(fp_line
+		(start 0.8 -0.4)
+		(end -0.8 -0.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "273fc293-c635-4104-b473-bc905f542753")
+	)
+	(fp_line
+		(start 0.8 0.4)
+		(end 0.8 -0.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "263a5032-aa5f-4abc-9750-22bba8bd8b1d")
+	)
+	(fp_circle
+		(center -1.815 0)
+		(end -1.715 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "9edcf28a-ef5c-4e17-9305-dc4cca6ae155")
+	)
+	(pad "A" smd rect
+		(at 0.76 0)
+		(size 0.91 0.93)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "b2b3226e-cb13-48d5-a2df-12e42d04a6ed")
+	)
+	(pad "C" smd rect
+		(at -0.76 0)
+		(size 0.91 0.93)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "a8dc11e6-301e-423c-876e-9fce9fe603b5")
+	)
+	(model "${KIPRJMOD}/3dmodels/My_LEDs/LTST-C191KFKT.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
