@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/milenathibault/Documents/Capstone_Hardware/RP2350_V2/SX1262kicad_sch.kicad_sch</source>
+    <date>2025-03-06T19:32:33-0500</date>
+    <tool>Eeschema 8.0.8</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>SX1262kicad_sch.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>470n</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">470nF</field>
+        <field name="LCSC">C47339</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="470nF"/>
+      <property name="LCSC" value="C47339"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e69b6fa-543b-4a53-8dd9-af46d05d6a9e</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">100nF</field>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="100nF"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33377d49-7694-4edd-bedb-813de59a5724</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1u</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">1uF</field>
+        <field name="LCSC">C14445</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="1uF"/>
+      <property name="LCSC" value="C14445"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c74677e-9ee2-440b-bb24-04a81c7e4d33</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>47n</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C307339</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C307339"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>591c3ba5-e406-4c47-9a4d-cfb5d2a0b657</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>47p</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C84706</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C84706"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7da3006-d0f1-4eb6-a7da-82ebd83abf47</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1.8p</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C1553</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C1553"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75099bd2-db3d-4ed9-a27a-85cbf6a4821c</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>3p</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C318583</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_2_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C318583"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57f6d584-d424-458d-9814-bcc345a1c48b</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>2.4p</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C318575</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_2_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C318575"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc72e78c-582c-49ad-b696-34131afe59b2</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>5.6p</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C318570</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C318570"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c12a4a9-fda1-4ecd-a90e-ad84a8ae5c5b</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>39p</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C86288</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_2_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C86288"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f98fced-9a4a-4357-ae71-4e767b28553e</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1.8p</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C1553</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C1553"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2cb2bd82-e70d-4764-86d8-531db009cef3</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>1n</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">1nF</field>
+        <field name="LCSC">C14442</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_3_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="1nF"/>
+      <property name="LCSC" value="C14442"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6a58563-c5ce-44bc-a965-41df581e3da8</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>1n</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">1nF</field>
+        <field name="LCSC">C14442</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_3_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="1nF"/>
+      <property name="LCSC" value="C14442"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6979637a-e18a-4e49-88e3-7a8267f5b106</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>39p</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_2_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>489d788e-b15f-4f0f-b0fb-81fb0a2e8e08</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>3.3p</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C307447</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C307447"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90776926-8196-40f1-bba4-7998c4fa2607</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>3.3p</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C307447</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C307447"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4008350f-3927-43be-a610-1fa1cb85c890</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>15u</value>
+      <footprint>rlc_805_smd enlarged</footprint>
+      <description>Inductor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="CODE_JEITA">0402</field>
+        <field name="CODE_IEC">1005</field>
+        <field name="ALTIUM_VALUE">15uH</field>
+        <field name="LCSC">C75634</field>
+        <field name="Footprint">rlc_805_smd enlarged</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_0_Inductor" description="Inductor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="CODE_JEITA" value="0402"/>
+      <property name="CODE_IEC" value="1005"/>
+      <property name="ALTIUM_VALUE" value="15uH"/>
+      <property name="LCSC" value="C75634"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aec10296-20ad-45f5-abfb-ada8882e2d61</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>47n</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Inductor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="CODE_JEITA">0402</field>
+        <field name="CODE_IEC">1005</field>
+        <field name="ALTIUM_VALUE">0R</field>
+        <field name="LCSC">C27151</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Inductor" description="Inductor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="CODE_JEITA" value="0402"/>
+      <property name="CODE_IEC" value="1005"/>
+      <property name="ALTIUM_VALUE" value="0R"/>
+      <property name="LCSC" value="C27151"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec387a91-b2aa-4bbf-96d2-b3358e8268a6</tstamps>
+    </comp>
+    <comp ref="L4">
+      <value>15n</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Inductor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="CODE_JEITA">0402</field>
+        <field name="CODE_IEC">1005</field>
+        <field name="ALTIUM_VALUE">0R</field>
+        <field name="LCSC">C76787</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Inductor" description="Inductor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="CODE_JEITA" value="0402"/>
+      <property name="CODE_IEC" value="1005"/>
+      <property name="ALTIUM_VALUE" value="0R"/>
+      <property name="LCSC" value="C76787"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4eadf717-5bd8-4073-a17e-0eab2845c962</tstamps>
+    </comp>
+    <comp ref="L5">
+      <value>2.5n</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Inductor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="CODE_JEITA">0402</field>
+        <field name="CODE_IEC">1005</field>
+        <field name="ALTIUM_VALUE">0R</field>
+        <field name="LCSC">C778764</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_0_Inductor" description="Inductor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="CODE_JEITA" value="0402"/>
+      <property name="CODE_IEC" value="1005"/>
+      <property name="ALTIUM_VALUE" value="0R"/>
+      <property name="LCSC" value="C778764"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3e9ee92-0b0f-44e9-9c23-736943fd445c</tstamps>
+    </comp>
+    <comp ref="L6">
+      <value>4.7n</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Inductor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="CODE_JEITA">0402</field>
+        <field name="CODE_IEC">1005</field>
+        <field name="ALTIUM_VALUE">0R</field>
+        <field name="LCSC">C13595</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_0_Inductor" description="Inductor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="CODE_JEITA" value="0402"/>
+      <property name="CODE_IEC" value="1005"/>
+      <property name="ALTIUM_VALUE" value="0R"/>
+      <property name="LCSC" value="C13595"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b24e3d1-d574-4c66-b711-055122f3b349</tstamps>
+    </comp>
+    <comp ref="L7">
+      <value>9.1n</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Inductor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="CODE_JEITA">0402</field>
+        <field name="CODE_IEC">1005</field>
+        <field name="ALTIUM_VALUE">0R</field>
+        <field name="LCSC">C74297</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_0_Inductor" description="Inductor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="CODE_JEITA" value="0402"/>
+      <property name="CODE_IEC" value="1005"/>
+      <property name="ALTIUM_VALUE" value="0R"/>
+      <property name="LCSC" value="C74297"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92526561-ed61-433c-ba05-3afb115284ae</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Resistor SMD - IEC symbol version</description>
+      <fields>
+        <field name="LATESTREVISIONDATE">27-Jul-20  -  Semtech</field>
+        <field name="ALTIUM_VALUE">100R</field>
+        <field name="LCSC">C25076</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor SMD - IEC symbol version</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_0_mirrored_Resistor" description="Resistor SMD - IEC symbol version"/>
+      <property name="LATESTREVISIONDATE" value="27-Jul-20  -  Semtech"/>
+      <property name="ALTIUM_VALUE" value="100R"/>
+      <property name="LCSC" value="C25076"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a6b6019-c4a0-4835-9a6f-42811dea6788</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100</value>
+      <footprint>rlc_402_smd</footprint>
+      <description>Resistor SMD - IEC symbol version</description>
+      <fields>
+        <field name="LATESTREVISIONDATE">27-Jul-20  -  Semtech</field>
+        <field name="ALTIUM_VALUE">100R</field>
+        <field name="LCSC">C25076</field>
+        <field name="Footprint">rlc_402_smd</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor SMD - IEC symbol version</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_0_mirrored_Resistor" description="Resistor SMD - IEC symbol version"/>
+      <property name="LATESTREVISIONDATE" value="27-Jul-20  -  Semtech"/>
+      <property name="ALTIUM_VALUE" value="100R"/>
+      <property name="LCSC" value="C25076"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>708dc223-0b17-4ec2-82fb-d29217ef834c</tstamps>
+    </comp>
+    <comp ref="RFIO1">
+      <value>SMA</value>
+      <footprint>SMA_end_launch_1.0mm_9.52mm</footprint>
+      <description>SMA Straight Connector</description>
+      <fields>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="Footprint">SMA_end_launch_1.0mm_9.52mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">SMA Straight Connector</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_0_mirrored_SMA" description="SMA Straight Connector"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*SMA_end_launch_1.0mm_9.52mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cb88020-6d7f-46e7-8867-bff04e284759</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>~</value>
+      <fields>
+        <field name="LCSC">C191341</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="My_Library" part="SX1262" description=""/>
+      <property name="LCSC" value="C191341"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>399dfc74-056d-40d1-b82b-9bae1d9ef6af</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>~</value>
+      <fields>
+        <field name="LCSC">C470892</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="My_Library" part="PE4259_RF_SW" description=""/>
+      <property name="LCSC" value="C470892"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7e4cba1-c86e-4f7e-bc72-17a2f799d52b</tstamps>
+    </comp>
+    <comp ref="XTAL1">
+      <value>NX2016SA-32M-EXS00A-CS06465</value>
+      <footprint>NX2016SA_NDK</footprint>
+      <datasheet>NX2016SA-32M-EXS00A-CS06465</datasheet>
+      <fields>
+        <field name="LCSC">C1986260</field>
+        <field name="Footprint">NX2016SA_NDK</field>
+        <field name="Datasheet">NX2016SA-32M-EXS00A-CS06465</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="My_Library" part="NX2016SA-32M-EXS00A-CS06465" description=""/>
+      <property name="LCSC" value="C1986260"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_keywords" value="NX2016SA-32M-EXS00A-CS06465"/>
+      <property name="ki_fp_filters" value="NX2016SA_NDK NX2016SA_NDK-M NX2016SA_NDK-L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e730e9f-bf1d-4cb1-901f-ab755657add8</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="My_Library" part="NX2016SA-32M-EXS00A-CS06465">
+      <docs>NX2016SA-32M-EXS00A-CS06465</docs>
+      <footprints>
+        <fp>NX2016SA_NDK</fp>
+        <fp>NX2016SA_NDK-M</fp>
+        <fp>NX2016SA_NDK-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">XTAL</field>
+        <field name="Value">NX2016SA-32M-EXS00A-CS06465</field>
+        <field name="Footprint">NX2016SA_NDK</field>
+        <field name="Datasheet">NX2016SA-32M-EXS00A-CS06465</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="My_Library" part="PE4259_RF_SW">
+      <fields>
+        <field name="Reference">U8</field>
+        <field name="Value">~</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="RF1" type="bidirectional"/>
+        <pin num="2" name="GND" type="power_out"/>
+        <pin num="3" name="RF2" type="bidirectional"/>
+        <pin num="4" name="CTRL" type="unspecified"/>
+        <pin num="5" name="RFC" type="unspecified"/>
+        <pin num="6" name="*CTRL/VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="My_Library" part="SX1262">
+      <fields>
+        <field name="Reference">U7</field>
+        <field name="Value">~</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD_IN" type="power_in"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="XTA" type="passive"/>
+        <pin num="4" name="XTB" type="passive"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="DIO3" type="passive"/>
+        <pin num="7" name="VREG" type="power_in"/>
+        <pin num="8" name="GND" type="passive"/>
+        <pin num="9" name="DCC_SW" type="power_in"/>
+        <pin num="10" name="VBAT" type="power_in"/>
+        <pin num="11" name="VBAT_IO" type="power_in"/>
+        <pin num="12" name="DIO2" type="passive"/>
+        <pin num="13" name="DIO1" type="passive"/>
+        <pin num="14" name="BUSY" type="passive"/>
+        <pin num="15" name="NRESET" type="passive"/>
+        <pin num="16" name="MISO" type="passive"/>
+        <pin num="17" name="MOSI" type="passive"/>
+        <pin num="18" name="SCK" type="passive"/>
+        <pin num="19" name="NSS" type="passive"/>
+        <pin num="20" name="GND" type="passive"/>
+        <pin num="21" name="RFI_P" type="passive"/>
+        <pin num="22" name="RFI_N" type="passive"/>
+        <pin num="23" name="RFO" type="passive"/>
+        <pin num="24" name="VR_PA" type="power_in"/>
+        <pin num="25" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="reference-altium-import" part="root_0_Inductor">
+      <description>Inductor SMD</description>
+      <footprints>
+        <fp>*rlc_402_smd*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference"/>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor SMD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="reference-altium-import" part="root_0_mirrored_Resistor">
+      <description>Resistor SMD - IEC symbol version</description>
+      <footprints>
+        <fp>*rlc_402_smd*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference"/>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor SMD - IEC symbol version</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="reference-altium-import" part="root_0_mirrored_SMA">
+      <description>SMA Straight Connector</description>
+      <footprints>
+        <fp>*SMA_end_launch_1.0mm_9.52mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference"/>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">SMA Straight Connector</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Signal" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="reference-altium-import" part="root_1_Cap">
+      <description>Capacitor SMD</description>
+      <footprints>
+        <fp>*rlc_402_smd*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference"/>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="reference-altium-import" part="root_1_Inductor">
+      <description>Inductor SMD</description>
+      <footprints>
+        <fp>*rlc_402_smd*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference"/>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor SMD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="reference-altium-import" part="root_2_Cap">
+      <description>Capacitor SMD</description>
+      <footprints>
+        <fp>*rlc_402_smd*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference"/>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="reference-altium-import" part="root_3_Cap">
+      <description>Capacitor SMD</description>
+      <footprints>
+        <fp>*rlc_402_smd*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference"/>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="My_Library">
+      <uri>/Users/milenathibault/Documents/Capstone_Hardware/RP2350_V2/My_Library.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VDD_IN" pintype="power_in"/>
+      <node ref="U1" pin="10" pinfunction="VBAT" pintype="power_in"/>
+      <node ref="U1" pin="11" pinfunction="VBAT_IO" pintype="power_in"/>
+    </net>
+    <net code="2" name="/BUSY">
+      <node ref="U1" pin="14" pinfunction="BUSY" pintype="passive"/>
+    </net>
+    <net code="3" name="/DIO1">
+      <node ref="U1" pin="13" pinfunction="DIO1" pintype="passive"/>
+    </net>
+    <net code="4" name="/DIO2">
+      <node ref="R2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="DIO2" pintype="passive"/>
+    </net>
+    <net code="5" name="/DIO3">
+      <node ref="U1" pin="6" pinfunction="DIO3" pintype="passive"/>
+    </net>
+    <net code="6" name="/MISO">
+      <node ref="U1" pin="16" pinfunction="MISO" pintype="passive"/>
+    </net>
+    <net code="7" name="/MOSI">
+      <node ref="U1" pin="17" pinfunction="MOSI" pintype="passive"/>
+    </net>
+    <net code="8" name="/NSS">
+      <node ref="U1" pin="19" pinfunction="NSS" pintype="passive"/>
+    </net>
+    <net code="9" name="/SCK">
+      <node ref="U1" pin="18" pinfunction="SCK" pintype="passive"/>
+    </net>
+    <net code="10" name="/SX_NRESET">
+      <node ref="U1" pin="15" pinfunction="NRESET" pintype="passive"/>
+    </net>
+    <net code="11" name="/VR_PA">
+      <node ref="C4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="VR_PA" pintype="power_in"/>
+    </net>
+    <net code="12" name="/XTA">
+      <node ref="U1" pin="3" pinfunction="XTA" pintype="passive"/>
+      <node ref="XTAL1" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="13" name="/XTB">
+      <node ref="U1" pin="4" pinfunction="XTB" pintype="passive"/>
+      <node ref="XTAL1" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="14" name="GND">
+      <node ref="C1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RFIO1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_out"/>
+      <node ref="XTAL1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="XTAL1" pin="4" pinfunction="4" pintype="unspecified"/>
+    </net>
+    <net code="15" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(C14-Pad1)">
+      <node ref="C14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C15" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(RFIO1-Signal)">
+      <node ref="C16" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RFIO1" pin="1" pinfunction="Signal" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(U1-DCC_SW)">
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="DCC_SW" pintype="power_in"/>
+    </net>
+    <net code="20" name="Net-(U1-RFI_N)">
+      <node ref="C8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="RFI_N" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(U1-RFI_P)">
+      <node ref="C6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="RFI_P" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(U1-RFO)">
+      <node ref="C7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="RFO" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(U1-VREG)">
+      <node ref="C1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="VREG" pintype="power_in"/>
+    </net>
+    <net code="24" name="Net-(U2-*CTRL{slash}VDD)">
+      <node ref="C12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="*CTRL/VDD" pintype="power_in"/>
+    </net>
+    <net code="25" name="Net-(U2-CTRL)">
+      <node ref="C13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="CTRL" pintype="unspecified"/>
+    </net>
+    <net code="26" name="Net-(U2-RF1)">
+      <node ref="C11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="RF1" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="Net-(U2-RF2)">
+      <node ref="C8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="RF2" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="Net-(U2-RFC)">
+      <node ref="C14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="RFC" pintype="unspecified"/>
+    </net>
+    <net code="29" name="unconnected-(U1-GND-Pad25)">
+      <node ref="U1" pin="25" pinfunction="GND" pintype="passive"/>
+    </net>
+  </nets>
+</export>

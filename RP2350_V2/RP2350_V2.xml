@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/Users/milenathibault/Documents/Capstone_Hardware/RP2350_V1/RP2350_V1.kicad_sch</source>
-    <date>2025-02-21T23:27:39-0500</date>
+    <source>/Users/milenathibault/Documents/Capstone_Hardware/RP2350_V2/RP2350_V2.kicad_sch</source>
+    <date>2025-03-07T14:28:12-0500</date>
     <tool>Eeschema 8.0.8</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>VoidLink</title>
         <company>RF Doom</company>
-        <rev>V1</rev>
+        <rev>2.0</rev>
         <date/>
-        <source>RP2350_V1.kicad_sch</source>
+        <source>RP2350_V2.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>SX1262kicad_sch.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -38,7 +56,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -58,7 +76,7 @@
       <property name="LCSC" value="C23733"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -78,7 +96,7 @@
       <property name="LCSC" value="C23733"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -98,7 +116,7 @@
       <property name="LCSC" value="C23733"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -118,7 +136,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -138,7 +156,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -158,7 +176,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -178,7 +196,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -198,7 +216,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -218,7 +236,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -238,7 +256,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -258,7 +276,7 @@
       <property name="LCSC" value="C86285"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -278,7 +296,7 @@
       <property name="LCSC" value="C86285"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -299,7 +317,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -320,7 +338,7 @@
       <property name="LCSC" value="C23733"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -341,7 +359,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -362,7 +380,7 @@
       <property name="LCSC" value="C1746"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -383,7 +401,7 @@
       <property name="LCSC" value="C1746"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -404,7 +422,7 @@
       <property name="LCSC" value="C5674"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -425,7 +443,7 @@
       <property name="LCSC" value="C84705"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -446,7 +464,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -467,7 +485,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -488,7 +506,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -509,7 +527,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -530,7 +548,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -551,7 +569,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -572,7 +590,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -593,7 +611,7 @@
       <property name="LCSC" value="C32949"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -614,7 +632,7 @@
       <property name="LCSC" value="C1713"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -635,7 +653,7 @@
       <property name="LCSC" value="C5674"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -656,7 +674,7 @@
       <property name="LCSC" value="C5674"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -677,7 +695,7 @@
       <property name="LCSC" value="C1525"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -698,7 +716,7 @@
       <property name="SNAPEDA_PN" value=""/>
       <property name="LCSC" value="C123801"/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="SMF12CA"/>
       <property name="ki_fp_filters" value="SOD-123F_LTF SOD-123F_LTF-M SOD-123F_LTF-L"/>
       <sheetpath names="/" tstamps="/"/>
@@ -719,7 +737,7 @@
       <property name="SNAPEDA_PN" value=""/>
       <property name="LCSC" value="C123801"/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="SMF12CA"/>
       <property name="ki_fp_filters" value="SOD-123F_LTF SOD-123F_LTF-M SOD-123F_LTF-L"/>
       <sheetpath names="/" tstamps="/"/>
@@ -741,7 +759,7 @@
       <property name="LCSC" value="C23848"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="diode Schottky"/>
       <property name="ki_fp_filters" value="D*SOD?123*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -763,7 +781,7 @@
       <property name="LCSC" value="C605398"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="usb esd protection"/>
       <property name="ki_fp_filters" value="SOT?23*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -783,7 +801,7 @@
       <property name="LCSC" value="C94869"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>043f4279-ac93-4e91-924d-01d2113788af</tstamps>
     </comp>
@@ -803,7 +821,7 @@
       <property name="LCSC" value="C125096 "/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c11216ba-2b9e-4f64-9cc9-b71687513a7f</tstamps>
     </comp>
@@ -829,9 +847,35 @@
       <property name="LCSC" value="C160478"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c9f7a8b4-5590-4a7d-a08e-69f954de3356</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LTST-C191KFKT</value>
+      <footprint>My_Footprints:LEDC1608X55N_orange</footprint>
+      <fields>
+        <field name="PARTREV">Rev. H</field>
+        <field name="MANUFACTURER">Lite-On Inc.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="LCSC">C160478</field>
+        <field name="SNAPEDA_PN"/>
+        <field name="Footprint">My_Footprints:LEDC1608X55N_orange</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="My_Library" part="LTST-C191KFKT" description=""/>
+      <property name="PARTREV" value="Rev. H"/>
+      <property name="MANUFACTURER" value="Lite-On Inc."/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.65 mm"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="LCSC" value="C160478"/>
+      <property name="SNAPEDA_PN" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e22a71b3-a5cb-4c3c-965e-785ab93308b2</tstamps>
     </comp>
     <comp ref="IC1">
       <value>DMP1045U-7</value>
@@ -863,7 +907,7 @@
       <property name="LCSC" value="C177033"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e86fc902-f74e-4fdf-855d-ec190989ee8d</tstamps>
     </comp>
@@ -897,7 +941,7 @@
       <property name="LCSC" value="C177033"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e6046a85-cb89-4995-8ba2-4895bcc8cdbd</tstamps>
     </comp>
@@ -931,9 +975,43 @@
       <property name="LCSC" value="C177033"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>59c7648f-f73d-4b64-943e-60ee9bbcac56</tstamps>
+    </comp>
+    <comp ref="IC4">
+      <value>DMP1045U-7</value>
+      <footprint>My_Footprints:SOT96P240X110-3N</footprint>
+      <datasheet>https://www.diodes.com//assets/Datasheets/DMP1045U.pdf</datasheet>
+      <description>P-Channel Enhancement MOSFET SOT-23 Diodes Inc DMP1045U-7 P-channel MOSFET Transistor, 5.2 A, -12 V, 3-Pin SOT23</description>
+      <fields>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Diodes Incorporated</field>
+        <field name="Manufacturer_Part_Number">DMP1045U-7</field>
+        <field name="Mouser Part Number">621-DMP1045U-7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP1045U-7?qs=T%2FOtf55vL7eEKnIWhgMvTQ%3D%3D</field>
+        <field name="Arrow Part Number">DMP1045U-7</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/dmp1045u-7/diodes-incorporated?utm_currency=USD&amp;region=asia</field>
+        <field name="LCSC">C177033</field>
+        <field name="SNAPEDA_PN"/>
+        <field name="Footprint">My_Footprints:SOT96P240X110-3N</field>
+        <field name="Datasheet">https://www.diodes.com//assets/Datasheets/DMP1045U.pdf</field>
+        <field name="Description">P-Channel Enhancement MOSFET SOT-23 Diodes Inc DMP1045U-7 P-channel MOSFET Transistor, 5.2 A, -12 V, 3-Pin SOT23</field>
+      </fields>
+      <libsource lib="My_Library" part="DMP1045U-7" description="P-Channel Enhancement MOSFET SOT-23 Diodes Inc DMP1045U-7 P-channel MOSFET Transistor, 5.2 A, -12 V, 3-Pin SOT23"/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Diodes Incorporated"/>
+      <property name="Manufacturer_Part_Number" value="DMP1045U-7"/>
+      <property name="Mouser Part Number" value="621-DMP1045U-7"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP1045U-7?qs=T%2FOtf55vL7eEKnIWhgMvTQ%3D%3D"/>
+      <property name="Arrow Part Number" value="DMP1045U-7"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/dmp1045u-7/diodes-incorporated?utm_currency=USD&amp;region=asia"/>
+      <property name="LCSC" value="C177033"/>
+      <property name="SNAPEDA_PN" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66d5de7e-218c-48a7-9c66-e77f0823de5c</tstamps>
     </comp>
     <comp ref="J1">
       <value>Conn_01x04_Pin</value>
@@ -950,32 +1028,11 @@
       <property name="LCSC" value="C152150"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>eacb0170-3f26-4458-a9a5-6299d8df7807</tstamps>
-    </comp>
-    <comp ref="J2">
-      <value>Conn_01x08_Socket</value>
-      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical</footprint>
-      <description>Generic connector, single row, 01x08, script generated</description>
-      <fields>
-        <field name="LCSC">C27438</field>
-        <field name="SNAPEDA_PN"/>
-        <field name="Footprint">Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical</field>
-        <field name="Datasheet"/>
-        <field name="Description">Generic connector, single row, 01x08, script generated</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x08_Socket" description="Generic connector, single row, 01x08, script generated"/>
-      <property name="LCSC" value="C27438"/>
-      <property name="SNAPEDA_PN" value=""/>
-      <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
-      <property name="ki_keywords" value="connector"/>
-      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>6fbcd8c7-77ae-4340-b035-d3f8d8775144</tstamps>
     </comp>
     <comp ref="J3">
       <value>USB_C_Receptacle_USB2.0_16P</value>
@@ -993,32 +1050,11 @@
       <property name="LCSC" value="C165948"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
       <property name="ki_fp_filters" value="USB*C*Receptacle*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a323dabb-22db-4964-a572-ea840fdcaa97</tstamps>
-    </comp>
-    <comp ref="J4">
-      <value>Conn_01x08_Socket</value>
-      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical</footprint>
-      <description>Generic connector, single row, 01x08, script generated</description>
-      <fields>
-        <field name="LCSC">C27438</field>
-        <field name="SNAPEDA_PN"/>
-        <field name="Footprint">Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical</field>
-        <field name="Datasheet"/>
-        <field name="Description">Generic connector, single row, 01x08, script generated</field>
-      </fields>
-      <libsource lib="Connector" part="Conn_01x08_Socket" description="Generic connector, single row, 01x08, script generated"/>
-      <property name="LCSC" value="C27438"/>
-      <property name="SNAPEDA_PN" value=""/>
-      <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
-      <property name="ki_keywords" value="connector"/>
-      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>26a0bc49-2f15-4726-b939-c5c4d1458855</tstamps>
     </comp>
     <comp ref="J5">
       <value>Conn_01x08_Socket</value>
@@ -1035,7 +1071,7 @@
       <property name="LCSC" value="C157974"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1056,7 +1092,7 @@
       <property name="LCSC" value="C131337"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1077,7 +1113,7 @@
       <property name="LCSC" value="C152150"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1085,11 +1121,11 @@
     </comp>
     <comp ref="L1">
       <value>3.3u</value>
-      <footprint>My_Global_Inductors:AOTA-B201610S3R3-101-T</footprint>
+      <footprint>My_Footprints:AOTA-B201610S3R3-101-T</footprint>
       <fields>
         <field name="LCSC">C42411119</field>
         <field name="SNAPEDA_PN"/>
-        <field name="Footprint">My_Global_Inductors:AOTA-B201610S3R3-101-T</field>
+        <field name="Footprint">My_Footprints:AOTA-B201610S3R3-101-T</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
@@ -1097,7 +1133,7 @@
       <property name="LCSC" value="C42411119"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
       <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1118,7 +1154,7 @@
       <property name="LCSC" value="C167201"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
       <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1139,7 +1175,7 @@
       <property name="LCSC" value="C11702"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1160,7 +1196,7 @@
       <property name="LCSC" value="C11702"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1181,7 +1217,7 @@
       <property name="LCSC" value="C25530"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1202,7 +1238,7 @@
       <property name="LCSC" value="C25923"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1222,7 +1258,7 @@
       <property name="LCSC" value="C25744"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1242,7 +1278,7 @@
       <property name="LCSC" value="C25105"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1262,7 +1298,7 @@
       <property name="LCSC" value="C25100"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1282,7 +1318,7 @@
       <property name="LCSC" value="C25100"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1303,7 +1339,7 @@
       <property name="LCSC" value="C11702"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1324,7 +1360,7 @@
       <property name="LCSC" value="C25922"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1345,7 +1381,7 @@
       <property name="LCSC" value="C26959"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1366,7 +1402,7 @@
       <property name="LCSC" value="C25744"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1387,7 +1423,7 @@
       <property name="LCSC" value="C25530"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1408,7 +1444,7 @@
       <property name="LCSC" value="C25905"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1429,7 +1465,7 @@
       <property name="LCSC" value="C25905"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1450,7 +1486,7 @@
       <property name="LCSC" value="C25744"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1471,7 +1507,7 @@
       <property name="LCSC" value="C25744"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1492,7 +1528,7 @@
       <property name="LCSC" value="C25744"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1513,7 +1549,7 @@
       <property name="LCSC" value="C25744"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1534,7 +1570,7 @@
       <property name="LCSC" value="C25744"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1555,7 +1591,7 @@
       <property name="LCSC" value="C25744"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1576,7 +1612,7 @@
       <property name="LCSC" value="C25744"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1597,7 +1633,7 @@
       <property name="LCSC" value="C25744"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1618,7 +1654,7 @@
       <property name="LCSC" value="C25744"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1639,7 +1675,7 @@
       <property name="LCSC" value="C25744"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1660,7 +1696,7 @@
       <property name="LCSC" value="C25744"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1681,7 +1717,7 @@
       <property name="LCSC" value="C25744"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1702,7 +1738,7 @@
       <property name="LCSC" value="C270575"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1723,7 +1759,7 @@
       <property name="LCSC" value="C11812"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1744,7 +1780,7 @@
       <property name="LCSC" value="C26083"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1765,7 +1801,7 @@
       <property name="LCSC" value="C25744"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1786,7 +1822,7 @@
       <property name="LCSC" value="C25133"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1807,7 +1843,7 @@
       <property name="LCSC" value="C423126"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1828,11 +1864,53 @@
       <property name="LCSC" value="C25530"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4a32b3dc-caa8-40ea-9dc6-df2f12ee0485</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25530</field>
+        <field name="SNAPEDA_PN"/>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25530"/>
+      <property name="SNAPEDA_PN" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e863b831-d27f-4ed5-b9f1-c567f108a378</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>51</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25125</field>
+        <field name="SNAPEDA_PN"/>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25125"/>
+      <property name="SNAPEDA_PN" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f44a3dd6-ed98-4ba5-be00-3cb662eebeb9</tstamps>
     </comp>
     <comp ref="SW1">
       <value>PTS 647 SN50 SMTR2 LFS</value>
@@ -1849,7 +1927,7 @@
       <property name="LCSC" value="C2799414"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="PTS 647 SN50 SMTR2 LFS"/>
       <property name="ki_fp_filters" value="PTS 647 SN50 SMTR2 LFS PTS 647 SN50 SMTR2 LFS-M PTS 647 SN50 SMTR2 LFS-L"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1870,7 +1948,7 @@
       <property name="LCSC" value="C2799414"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="PTS 647 SN50 SMTR2 LFS"/>
       <property name="ki_fp_filters" value="PTS 647 SN50 SMTR2 LFS PTS 647 SN50 SMTR2 LFS-M PTS 647 SN50 SMTR2 LFS-L"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1891,7 +1969,7 @@
       <property name="LCSC" value="C2799414"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="PTS 647 SN50 SMTR2 LFS"/>
       <property name="ki_fp_filters" value="PTS 647 SN50 SMTR2 LFS PTS 647 SN50 SMTR2 LFS-M PTS 647 SN50 SMTR2 LFS-L"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1912,7 +1990,7 @@
       <property name="LCSC" value="C2799414"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="PTS 647 SN50 SMTR2 LFS"/>
       <property name="ki_fp_filters" value="PTS 647 SN50 SMTR2 LFS PTS 647 SN50 SMTR2 LFS-M PTS 647 SN50 SMTR2 LFS-L"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1933,7 +2011,7 @@
       <property name="LCSC" value="C2799414"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="PTS 647 SN50 SMTR2 LFS"/>
       <property name="ki_fp_filters" value="PTS 647 SN50 SMTR2 LFS PTS 647 SN50 SMTR2 LFS-M PTS 647 SN50 SMTR2 LFS-L"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1954,7 +2032,7 @@
       <property name="LCSC" value="C2799414"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="PTS 647 SN50 SMTR2 LFS"/>
       <property name="ki_fp_filters" value="PTS 647 SN50 SMTR2 LFS PTS 647 SN50 SMTR2 LFS-M PTS 647 SN50 SMTR2 LFS-L"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1975,7 +2053,7 @@
       <property name="LCSC" value="C2799414"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="PTS 647 SN50 SMTR2 LFS"/>
       <property name="ki_fp_filters" value="PTS 647 SN50 SMTR2 LFS PTS 647 SN50 SMTR2 LFS-M PTS 647 SN50 SMTR2 LFS-L"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1996,7 +2074,7 @@
       <property name="LCSC" value="C2799414"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="PTS 647 SN50 SMTR2 LFS"/>
       <property name="ki_fp_filters" value="PTS 647 SN50 SMTR2 LFS PTS 647 SN50 SMTR2 LFS-M PTS 647 SN50 SMTR2 LFS-L"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2016,7 +2094,7 @@
       <property name="LCSC" value="C42411118"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c749e37f-2d79-407d-8a52-c1126f1fa523</tstamps>
     </comp>
@@ -2035,7 +2113,7 @@
       <property name="LCSC" value="C97521"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="flash memory SPI QPI DTR"/>
       <property name="ki_fp_filters" value="SOIC*5.23x5.23mm*P1.27mm*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2056,7 +2134,7 @@
       <property name="LCSC" value="C2071851"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="TPS628110AQWRWYRQ1"/>
       <property name="ki_fp_filters" value="RWY0009A"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2078,7 +2156,7 @@
       <property name="LCSC" value="C144308"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="Lithium-Ion Battery Charger"/>
       <property name="ki_fp_filters" value="SOT?23*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2099,7 +2177,7 @@
       <property name="LCSC" value="C2860248"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="TLV3012AIDCKR"/>
       <property name="ki_fp_filters" value="DCK6 DCK6-M DCK6-L"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2121,11 +2199,11 @@
       <property name="LCSC" value="C6820"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="HCMOS not inverter"/>
       <property name="ki_fp_filters" value="DIP*W7.62mm*"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>73de7325-9545-4da5-a088-c0fa1c5e34f4 4fdacec7-96c7-4675-8b29-dff4c590f38d 426197c1-4c91-4467-ba14-7b852892b409 8f798589-5a0e-442c-b960-33823183785e e51d92cd-eddd-47ba-8422-91b4d20143d2 f24985a1-566e-4efc-b665-85cbe1e949fe 36fb0383-e347-498d-9ae5-e8fe1b8d4a34</tstamps>
+      <tstamps>73de7325-9545-4da5-a088-c0fa1c5e34f4 8f798589-5a0e-442c-b960-33823183785e f24985a1-566e-4efc-b665-85cbe1e949fe e51d92cd-eddd-47ba-8422-91b4d20143d2 426197c1-4c91-4467-ba14-7b852892b409 4fdacec7-96c7-4675-8b29-dff4c590f38d 36fb0383-e347-498d-9ae5-e8fe1b8d4a34</tstamps>
     </comp>
     <comp ref="X1">
       <value>ABM8-272-T3</value>
@@ -2142,11 +2220,768 @@
       <property name="LCSC" value="C20625731"/>
       <property name="SNAPEDA_PN" value=""/>
       <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="RP2350_V1.kicad_sch"/>
+      <property name="Sheetfile" value="RP2350_V2.kicad_sch"/>
       <property name="ki_keywords" value="ABM8-272-T3"/>
       <property name="ki_fp_filters" value="ABM8-272-T3_ABR"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3052c046-883a-4d74-b711-871b89e0bea0</tstamps>
+    </comp>
+    <comp ref="C44">
+      <value>470n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">470nF</field>
+        <field name="LCSC">C47339</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="470nF"/>
+      <property name="LCSC" value="C47339"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>4e69b6fa-543b-4a53-8dd9-af46d05d6a9e</tstamps>
+    </comp>
+    <comp ref="C47">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">100nF</field>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="100nF"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>33377d49-7694-4edd-bedb-813de59a5724</tstamps>
+    </comp>
+    <comp ref="C48">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">1uF</field>
+        <field name="LCSC">C14445</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="1uF"/>
+      <property name="LCSC" value="C14445"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>1c74677e-9ee2-440b-bb24-04a81c7e4d33</tstamps>
+    </comp>
+    <comp ref="C49">
+      <value>47n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C307339</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C307339"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>591c3ba5-e406-4c47-9a4d-cfb5d2a0b657</tstamps>
+    </comp>
+    <comp ref="C50">
+      <value>47p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C84706</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C84706"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>d7da3006-d0f1-4eb6-a7da-82ebd83abf47</tstamps>
+    </comp>
+    <comp ref="C52">
+      <value>1.8p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C1553</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C1553"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>75099bd2-db3d-4ed9-a27a-85cbf6a4821c</tstamps>
+    </comp>
+    <comp ref="C53">
+      <value>3p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C318583</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_2_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C318583"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>57f6d584-d424-458d-9814-bcc345a1c48b</tstamps>
+    </comp>
+    <comp ref="C54">
+      <value>2.4p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C318575</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_2_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C318575"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>dc72e78c-582c-49ad-b696-34131afe59b2</tstamps>
+    </comp>
+    <comp ref="C55">
+      <value>5.6p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C318570</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C318570"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>2c12a4a9-fda1-4ecd-a90e-ad84a8ae5c5b</tstamps>
+    </comp>
+    <comp ref="C57">
+      <value>39p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C86288</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_2_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C86288"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>8f98fced-9a4a-4357-ae71-4e767b28553e</tstamps>
+    </comp>
+    <comp ref="C58">
+      <value>1.8p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C1553</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C1553"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>2cb2bd82-e70d-4764-86d8-531db009cef3</tstamps>
+    </comp>
+    <comp ref="C59">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">1nF</field>
+        <field name="LCSC">C14442</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_3_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="1nF"/>
+      <property name="LCSC" value="C14442"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>6979637a-e18a-4e49-88e3-7a8267f5b106</tstamps>
+    </comp>
+    <comp ref="C60">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">1nF</field>
+        <field name="LCSC">C14442</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_3_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="1nF"/>
+      <property name="LCSC" value="C14442"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>d6a58563-c5ce-44bc-a965-41df581e3da8</tstamps>
+    </comp>
+    <comp ref="C61">
+      <value>39p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_2_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>489d788e-b15f-4f0f-b0fb-81fb0a2e8e08</tstamps>
+    </comp>
+    <comp ref="C62">
+      <value>3.3p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C307447</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C307447"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>90776926-8196-40f1-bba4-7998c4fa2607</tstamps>
+    </comp>
+    <comp ref="C63">
+      <value>3.3p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Capacitor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="ALTIUM_VALUE">NC</field>
+        <field name="LCSC">C307447</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Cap" description="Capacitor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="ALTIUM_VALUE" value="NC"/>
+      <property name="LCSC" value="C307447"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>4008350f-3927-43be-a610-1fa1cb85c890</tstamps>
+    </comp>
+    <comp ref="L9">
+      <value>15u</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <description>Inductor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="CODE_JEITA">0402</field>
+        <field name="CODE_IEC">1005</field>
+        <field name="ALTIUM_VALUE">15uH</field>
+        <field name="LCSC">C75634</field>
+        <field name="Footprint">Inductor_SMD:L_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_0_Inductor" description="Inductor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="CODE_JEITA" value="0402"/>
+      <property name="CODE_IEC" value="1005"/>
+      <property name="ALTIUM_VALUE" value="15uH"/>
+      <property name="LCSC" value="C75634"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>aec10296-20ad-45f5-abfb-ada8882e2d61</tstamps>
+    </comp>
+    <comp ref="L11">
+      <value>47n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <description>Inductor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="CODE_JEITA">0402</field>
+        <field name="CODE_IEC">1005</field>
+        <field name="ALTIUM_VALUE">0R</field>
+        <field name="LCSC">C27151</field>
+        <field name="Footprint">Inductor_SMD:L_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Inductor" description="Inductor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="CODE_JEITA" value="0402"/>
+      <property name="CODE_IEC" value="1005"/>
+      <property name="ALTIUM_VALUE" value="0R"/>
+      <property name="LCSC" value="C27151"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>ec387a91-b2aa-4bbf-96d2-b3358e8268a6</tstamps>
+    </comp>
+    <comp ref="L12">
+      <value>15n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <description>Inductor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="CODE_JEITA">0402</field>
+        <field name="CODE_IEC">1005</field>
+        <field name="ALTIUM_VALUE">0R</field>
+        <field name="LCSC">C76787</field>
+        <field name="Footprint">Inductor_SMD:L_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_1_Inductor" description="Inductor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="CODE_JEITA" value="0402"/>
+      <property name="CODE_IEC" value="1005"/>
+      <property name="ALTIUM_VALUE" value="0R"/>
+      <property name="LCSC" value="C76787"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>4eadf717-5bd8-4073-a17e-0eab2845c962</tstamps>
+    </comp>
+    <comp ref="L13">
+      <value>2.5n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <description>Inductor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="CODE_JEITA">0402</field>
+        <field name="CODE_IEC">1005</field>
+        <field name="ALTIUM_VALUE">0R</field>
+        <field name="LCSC">C778764</field>
+        <field name="Footprint">Inductor_SMD:L_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_0_Inductor" description="Inductor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="CODE_JEITA" value="0402"/>
+      <property name="CODE_IEC" value="1005"/>
+      <property name="ALTIUM_VALUE" value="0R"/>
+      <property name="LCSC" value="C778764"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>b3e9ee92-0b0f-44e9-9c23-736943fd445c</tstamps>
+    </comp>
+    <comp ref="L14">
+      <value>4.7n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <description>Inductor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="CODE_JEITA">0402</field>
+        <field name="CODE_IEC">1005</field>
+        <field name="ALTIUM_VALUE">0R</field>
+        <field name="LCSC">C13595</field>
+        <field name="Footprint">Inductor_SMD:L_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_0_Inductor" description="Inductor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="CODE_JEITA" value="0402"/>
+      <property name="CODE_IEC" value="1005"/>
+      <property name="ALTIUM_VALUE" value="0R"/>
+      <property name="LCSC" value="C13595"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>3b24e3d1-d574-4c66-b711-055122f3b349</tstamps>
+    </comp>
+    <comp ref="L15">
+      <value>9.1n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <description>Inductor SMD</description>
+      <fields>
+        <field name="PUBLISHED">8-Jun-2000</field>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="CODE_JEITA">0402</field>
+        <field name="CODE_IEC">1005</field>
+        <field name="ALTIUM_VALUE">0R</field>
+        <field name="LCSC">C74297</field>
+        <field name="Footprint">Inductor_SMD:L_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor SMD</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_0_Inductor" description="Inductor SMD"/>
+      <property name="PUBLISHED" value="8-Jun-2000"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="CODE_JEITA" value="0402"/>
+      <property name="CODE_IEC" value="1005"/>
+      <property name="ALTIUM_VALUE" value="0R"/>
+      <property name="LCSC" value="C74297"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>92526561-ed61-433c-ba05-3afb115284ae</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor SMD - IEC symbol version</description>
+      <fields>
+        <field name="LATESTREVISIONDATE">27-Jul-20  -  Semtech</field>
+        <field name="ALTIUM_VALUE">100R</field>
+        <field name="LCSC">C25076</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor SMD - IEC symbol version</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_0_mirrored_Resistor" description="Resistor SMD - IEC symbol version"/>
+      <property name="LATESTREVISIONDATE" value="27-Jul-20  -  Semtech"/>
+      <property name="ALTIUM_VALUE" value="100R"/>
+      <property name="LCSC" value="C25076"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>708dc223-0b17-4ec2-82fb-d29217ef834c</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor SMD - IEC symbol version</description>
+      <fields>
+        <field name="LATESTREVISIONDATE">27-Jul-20  -  Semtech</field>
+        <field name="ALTIUM_VALUE">100R</field>
+        <field name="LCSC">C25076</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor SMD - IEC symbol version</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_0_mirrored_Resistor" description="Resistor SMD - IEC symbol version"/>
+      <property name="LATESTREVISIONDATE" value="27-Jul-20  -  Semtech"/>
+      <property name="ALTIUM_VALUE" value="100R"/>
+      <property name="LCSC" value="C25076"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*rlc_402_smd*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>0a6b6019-c4a0-4835-9a6f-42811dea6788</tstamps>
+    </comp>
+    <comp ref="RFIO1">
+      <value>SMA</value>
+      <footprint>My_Footprints:RF_CONN_LINX_CONSMA002-SMD-G-T</footprint>
+      <description>SMA Straight Connector</description>
+      <fields>
+        <field name="LATESTREVISIONDATE">05-oct-2007  -  Semtech</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+        <field name="LCSC">C22372912</field>
+        <field name="Footprint">My_Footprints:RF_CONN_LINX_CONSMA002-SMD-G-T</field>
+        <field name="Datasheet"/>
+        <field name="Description">SMA Straight Connector</field>
+      </fields>
+      <libsource lib="reference-altium-import" part="root_0_mirrored_SMA" description="SMA Straight Connector"/>
+      <property name="LATESTREVISIONDATE" value="05-oct-2007  -  Semtech"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="LCSC" value="C22372912"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_fp_filters" value="*SMA_end_launch_1.0mm_9.52mm*"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>4cb88020-6d7f-46e7-8867-bff04e284759</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>~</value>
+      <footprint>My_Footprints:SX1262_QFN24_4X4_SEM</footprint>
+      <fields>
+        <field name="LCSC">C191341</field>
+        <field name="Footprint">My_Footprints:SX1262_QFN24_4X4_SEM</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="My_Library" part="SX1262" description=""/>
+      <property name="LCSC" value="C191341"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>399dfc74-056d-40d1-b82b-9bae1d9ef6af</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>~</value>
+      <footprint>My_Footprints:PE4259_RF_SW</footprint>
+      <fields>
+        <field name="LCSC">C470892</field>
+        <field name="Footprint">My_Footprints:PE4259_RF_SW</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="My_Library" part="PE4259_RF_SW" description=""/>
+      <property name="LCSC" value="C470892"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>a7e4cba1-c86e-4f7e-bc72-17a2f799d52b</tstamps>
+    </comp>
+    <comp ref="XTAL1">
+      <value>NX2016SA-32M-EXS00A-CS06465</value>
+      <footprint>My_Footprints:NX2016SA_NDK</footprint>
+      <datasheet>NX2016SA-32M-EXS00A-CS06465</datasheet>
+      <fields>
+        <field name="LCSC">C1986260</field>
+        <field name="Footprint">My_Footprints:NX2016SA_NDK</field>
+        <field name="Datasheet">NX2016SA-32M-EXS00A-CS06465</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="My_Library" part="NX2016SA-32M-EXS00A-CS06465" description=""/>
+      <property name="LCSC" value="C1986260"/>
+      <property name="Sheetname" value="SX1262"/>
+      <property name="Sheetfile" value="SX1262kicad_sch.kicad_sch"/>
+      <property name="ki_keywords" value="NX2016SA-32M-EXS00A-CS06465"/>
+      <property name="ki_fp_filters" value="NX2016SA_NDK NX2016SA_NDK-M NX2016SA_NDK-L"/>
+      <sheetpath names="/SX1262/" tstamps="/374b7580-c712-4837-a7b5-2460a185bdb8/"/>
+      <tstamps>2e730e9f-bf1d-4cb1-901f-ab755657add8</tstamps>
     </comp>
   </components>
   <libparts>
@@ -2600,6 +3435,44 @@
         <pin num="C" name="" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="My_Library" part="NX2016SA-32M-EXS00A-CS06465">
+      <docs>NX2016SA-32M-EXS00A-CS06465</docs>
+      <footprints>
+        <fp>NX2016SA_NDK</fp>
+        <fp>NX2016SA_NDK-M</fp>
+        <fp>NX2016SA_NDK-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">XTAL</field>
+        <field name="Value">NX2016SA-32M-EXS00A-CS06465</field>
+        <field name="Footprint">NX2016SA_NDK</field>
+        <field name="Datasheet">NX2016SA-32M-EXS00A-CS06465</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="My_Library" part="PE4259_RF_SW">
+      <fields>
+        <field name="Reference">U8</field>
+        <field name="Value">~</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="RF1" type="bidirectional"/>
+        <pin num="2" name="GND" type="power_out"/>
+        <pin num="3" name="RF2" type="bidirectional"/>
+        <pin num="4" name="CTRL" type="unspecified"/>
+        <pin num="5" name="RFC" type="unspecified"/>
+        <pin num="6" name="*CTRL/VDD" type="power_in"/>
+      </pins>
+    </libpart>
     <libpart lib="My_Library" part="SMF12CA">
       <docs>SMF12CA</docs>
       <footprints>
@@ -2617,6 +3490,42 @@
       <pins>
         <pin num="1" name="" type="unspecified"/>
         <pin num="2" name="" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="My_Library" part="SX1262">
+      <fields>
+        <field name="Reference">U7</field>
+        <field name="Value">~</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD_IN" type="power_in"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="XTA" type="passive"/>
+        <pin num="4" name="XTB" type="passive"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="DIO3" type="passive"/>
+        <pin num="7" name="VREG" type="power_in"/>
+        <pin num="8" name="GND" type="passive"/>
+        <pin num="9" name="DCC_SW" type="power_in"/>
+        <pin num="10" name="VBAT" type="power_in"/>
+        <pin num="11" name="VBAT_IO" type="power_in"/>
+        <pin num="12" name="DIO2" type="passive"/>
+        <pin num="13" name="DIO1" type="passive"/>
+        <pin num="14" name="BUSY" type="passive"/>
+        <pin num="15" name="NRESET" type="passive"/>
+        <pin num="16" name="MISO" type="passive"/>
+        <pin num="17" name="MOSI" type="passive"/>
+        <pin num="18" name="SCK" type="passive"/>
+        <pin num="19" name="NSS" type="passive"/>
+        <pin num="20" name="GND" type="passive"/>
+        <pin num="21" name="RFI_P" type="passive"/>
+        <pin num="22" name="RFI_N" type="passive"/>
+        <pin num="23" name="RFO" type="passive"/>
+        <pin num="24" name="VR_PA" type="power_in"/>
+        <pin num="25" name="GND" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="My_Library" part="TLV3012AIDCKR">
@@ -2685,6 +3594,125 @@
         <pin num="3" name="A" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="reference-altium-import" part="root_0_Inductor">
+      <description>Inductor SMD</description>
+      <footprints>
+        <fp>*rlc_402_smd*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference"/>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor SMD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="reference-altium-import" part="root_0_mirrored_Resistor">
+      <description>Resistor SMD - IEC symbol version</description>
+      <footprints>
+        <fp>*rlc_402_smd*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference"/>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor SMD - IEC symbol version</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="reference-altium-import" part="root_0_mirrored_SMA">
+      <description>SMA Straight Connector</description>
+      <footprints>
+        <fp>*SMA_end_launch_1.0mm_9.52mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference"/>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">SMA Straight Connector</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Signal" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="reference-altium-import" part="root_1_Cap">
+      <description>Capacitor SMD</description>
+      <footprints>
+        <fp>*rlc_402_smd*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference"/>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="reference-altium-import" part="root_1_Inductor">
+      <description>Inductor SMD</description>
+      <footprints>
+        <fp>*rlc_402_smd*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference"/>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor SMD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="reference-altium-import" part="root_2_Cap">
+      <description>Capacitor SMD</description>
+      <footprints>
+        <fp>*rlc_402_smd*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference"/>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="reference-altium-import" part="root_3_Cap">
+      <description>Capacitor SMD</description>
+      <footprints>
+        <fp>*rlc_402_smd*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference"/>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Capacitor SMD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
   </libparts>
   <libraries>
     <library logical="74xx">
@@ -2709,7 +3737,7 @@
       <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Memory_Flash.kicad_sym</uri>
     </library>
     <library logical="My_Library">
-      <uri>/Users/milenathibault/Documents/Capstone_Hardware/RP2350_V1/My_Library.kicad_sym</uri>
+      <uri>/Users/milenathibault/Documents/Capstone_Hardware/RP2350_V2/My_Library.kicad_sym</uri>
     </library>
     <library logical="Power_Protection">
       <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Power_Protection.kicad_sym</uri>
@@ -2738,12 +3766,13 @@
       <node ref="C30" pin="1" pintype="passive"/>
       <node ref="C31" pin="1" pintype="passive"/>
       <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="C47" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C48" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="C5" pin="1" pintype="passive"/>
       <node ref="C6" pin="1" pintype="passive"/>
       <node ref="C7" pin="1" pintype="passive"/>
       <node ref="C8" pin="1" pintype="passive"/>
       <node ref="C9" pin="1" pintype="passive"/>
-      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
       <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R10" pin="1" pintype="passive"/>
@@ -2755,6 +3784,8 @@
       <node ref="R23" pin="1" pintype="passive"/>
       <node ref="R24" pin="1" pintype="passive"/>
       <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="R36" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
       <node ref="R5" pin="1" pintype="passive"/>
       <node ref="R6" pin="1" pintype="passive"/>
       <node ref="U1" pin="1" pinfunction="IOVDD" pintype="power_in"/>
@@ -2770,6 +3801,9 @@
       <node ref="U2" pin="8" pinfunction="VCC" pintype="power_in"/>
       <node ref="U5" pin="6" pinfunction="V+" pintype="power_in"/>
       <node ref="U6" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="VDD_IN" pintype="power_in"/>
+      <node ref="U7" pin="10" pinfunction="VBAT" pintype="power_in"/>
+      <node ref="U7" pin="11" pinfunction="VBAT_IO" pintype="power_in"/>
     </net>
     <net code="3" name="/BTN_BACK">
       <node ref="U1" pin="7" pinfunction="GPIO4" pintype="bidirectional"/>
@@ -2800,8 +3834,7 @@
       <node ref="U3" pin="7" pinfunction="COMP_FSET" pintype="input"/>
     </net>
     <net code="10" name="/CS{slash}NSS">
-      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="U1" pin="28" pinfunction="GPIO17" pintype="bidirectional"/>
+      <node ref="U1" pin="36" pinfunction="GPIO24" pintype="bidirectional"/>
     </net>
     <net code="11" name="/Converter_In">
       <node ref="C19" pin="1" pintype="passive"/>
@@ -2816,20 +3849,19 @@
       <node ref="U3" pin="3" pinfunction="SW" pintype="power_in"/>
     </net>
     <net code="13" name="/DIO1">
-      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="U1" pin="34" pinfunction="GPIO22" pintype="bidirectional"/>
     </net>
     <net code="14" name="/DISPLAY_BUSY">
       <node ref="J5" pin="8" pinfunction="Pin_8" pintype="passive"/>
-      <node ref="U1" pin="17" pinfunction="GPIO13" pintype="bidirectional"/>
+      <node ref="U1" pin="12" pinfunction="GPIO8" pintype="bidirectional"/>
     </net>
     <net code="15" name="/DISPLAY_DC">
       <node ref="J5" pin="6" pinfunction="Pin_6" pintype="passive"/>
-      <node ref="U1" pin="12" pinfunction="GPIO8" pintype="bidirectional"/>
+      <node ref="U1" pin="14" pinfunction="GPIO10" pintype="bidirectional"/>
     </net>
     <net code="16" name="/DISPLAY_RESET">
       <node ref="J5" pin="7" pinfunction="Pin_7" pintype="passive"/>
-      <node ref="U1" pin="16" pinfunction="GPIO12" pintype="bidirectional"/>
+      <node ref="U1" pin="13" pinfunction="GPIO9" pintype="bidirectional"/>
     </net>
     <net code="17" name="/FB">
       <node ref="C28" pin="2" pintype="passive"/>
@@ -2878,71 +3910,114 @@
       <node ref="SW1" pin="4" pinfunction="4" pintype="unspecified"/>
     </net>
     <net code="27" name="/SPI0_CLK">
-      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="U1" pin="29" pinfunction="GPIO18" pintype="bidirectional"/>
+      <node ref="U1" pin="37" pinfunction="GPIO25" pintype="bidirectional"/>
     </net>
     <net code="28" name="/SPI0_RX">
-      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="U1" pin="35" pinfunction="GPIO23" pintype="bidirectional"/>
     </net>
     <net code="29" name="/SPI0_TX">
-      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="U1" pin="31" pinfunction="GPIO19" pintype="bidirectional"/>
     </net>
     <net code="30" name="/SPI1_CLK">
       <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="U1" pin="14" pinfunction="GPIO10" pintype="bidirectional"/>
+      <node ref="U1" pin="16" pinfunction="GPIO12" pintype="bidirectional"/>
     </net>
     <net code="31" name="/SPI1_CS">
       <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="U1" pin="13" pinfunction="GPIO9" pintype="bidirectional"/>
+      <node ref="U1" pin="15" pinfunction="GPIO11" pintype="bidirectional"/>
     </net>
     <net code="32" name="/SPI1_TX">
       <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="U1" pin="15" pinfunction="GPIO11" pintype="bidirectional"/>
+      <node ref="U1" pin="17" pinfunction="GPIO13" pintype="bidirectional"/>
     </net>
-    <net code="33" name="/SWCLK">
+    <net code="33" name="/STATUS_LED">
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="GPIO18" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/SWCLK">
       <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U1" pin="24" pinfunction="SWCLK" pintype="output"/>
     </net>
-    <net code="34" name="/SWD">
+    <net code="35" name="/SWD">
       <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U1" pin="25" pinfunction="SWD" pintype="bidirectional"/>
     </net>
-    <net code="35" name="/UART_Rx_DEBUG">
+    <net code="36" name="/SX1262/BUSY">
+      <node ref="U7" pin="14" pinfunction="BUSY" pintype="passive"/>
+    </net>
+    <net code="37" name="/SX1262/DIO1">
+      <node ref="U7" pin="13" pinfunction="DIO1" pintype="passive"/>
+    </net>
+    <net code="38" name="/SX1262/DIO2">
+      <node ref="R35" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U7" pin="12" pinfunction="DIO2" pintype="passive"/>
+    </net>
+    <net code="39" name="/SX1262/DIO3">
+      <node ref="U7" pin="6" pinfunction="DIO3" pintype="passive"/>
+    </net>
+    <net code="40" name="/SX1262/MISO">
+      <node ref="U7" pin="16" pinfunction="MISO" pintype="passive"/>
+    </net>
+    <net code="41" name="/SX1262/MOSI">
+      <node ref="U7" pin="17" pinfunction="MOSI" pintype="passive"/>
+    </net>
+    <net code="42" name="/SX1262/NSS">
+      <node ref="U7" pin="19" pinfunction="NSS" pintype="passive"/>
+    </net>
+    <net code="43" name="/SX1262/SCK">
+      <node ref="U7" pin="18" pinfunction="SCK" pintype="passive"/>
+    </net>
+    <net code="44" name="/SX1262/SX_NRESET">
+      <node ref="U7" pin="15" pinfunction="NRESET" pintype="passive"/>
+    </net>
+    <net code="45" name="/SX1262/VR_PA">
+      <node ref="C49" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C50" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U7" pin="24" pinfunction="VR_PA" pintype="power_in"/>
+    </net>
+    <net code="46" name="/SX1262/XTA">
+      <node ref="U7" pin="3" pinfunction="XTA" pintype="passive"/>
+      <node ref="XTAL1" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="47" name="/SX1262/XTB">
+      <node ref="U7" pin="4" pinfunction="XTB" pintype="passive"/>
+      <node ref="XTAL1" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="48" name="/UART_Rx_DEBUG">
       <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U1" pin="3" pinfunction="GPIO1" pintype="bidirectional"/>
     </net>
-    <net code="36" name="/UART_Tx_DEBUG">
+    <net code="49" name="/UART_Tx_DEBUG">
       <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U1" pin="2" pinfunction="GPIO0" pintype="bidirectional"/>
     </net>
-    <net code="37" name="/USB_CC1">
+    <net code="50" name="/USB_CC1">
       <node ref="J3" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
       <node ref="R15" pin="1" pintype="passive"/>
     </net>
-    <net code="38" name="/USB_CC2">
+    <net code="51" name="/USB_CC2">
       <node ref="J3" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
       <node ref="R14" pin="1" pintype="passive"/>
     </net>
-    <net code="39" name="/USB_D+">
+    <net code="52" name="/USB_D+">
       <node ref="D2" pin="2" pinfunction="K" pintype="passive"/>
       <node ref="J3" pin="A6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="J3" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="R7" pin="1" pintype="passive"/>
     </net>
-    <net code="40" name="/USB_D-">
+    <net code="53" name="/USB_D-">
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J3" pin="A7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="J3" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="R8" pin="1" pintype="passive"/>
     </net>
-    <net code="41" name="/UVLO_RST">
+    <net code="54" name="/UVLO_RST">
       <node ref="R31" pin="1" pintype="passive"/>
       <node ref="R34" pin="1" pintype="passive"/>
       <node ref="U5" pin="1" pinfunction="OUT" pintype="output"/>
     </net>
-    <net code="42" name="/VBAT">
+    <net code="55" name="/VBAT">
       <node ref="C18" pin="1" pintype="passive"/>
       <node ref="CR2" pin="1" pintype="unspecified"/>
       <node ref="IC1" pin="3" pinfunction="D" pintype="passive"/>
@@ -2951,38 +4026,36 @@
       <node ref="R33" pin="1" pintype="passive"/>
       <node ref="U4" pin="3" pinfunction="V_{BAT}" pintype="power_out"/>
     </net>
-    <net code="43" name="/VREG_AVDD">
+    <net code="56" name="/VREG_AVDD">
       <node ref="C4" pin="1" pintype="passive"/>
       <node ref="R6" pin="2" pintype="passive"/>
       <node ref="U1" pin="46" pinfunction="VREG_AVDD" pintype="power_in"/>
     </net>
-    <net code="44" name="/VREG_LX">
+    <net code="57" name="/VREG_LX">
       <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U1" pin="48" pinfunction="VREG_LX" pintype="power_out"/>
     </net>
-    <net code="45" name="/XIN">
+    <net code="58" name="/XIN">
       <node ref="C13" pin="1" pintype="passive"/>
       <node ref="U1" pin="21" pinfunction="XIN" pintype="input"/>
       <node ref="X1" pin="1" pinfunction="1" pintype="unspecified"/>
     </net>
-    <net code="46" name="/XOUT">
+    <net code="59" name="/XOUT">
       <node ref="R9" pin="2" pintype="passive"/>
       <node ref="U1" pin="22" pinfunction="XOUT" pintype="passive"/>
     </net>
-    <net code="47" name="/uC_BUSY">
-      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    <net code="60" name="/uC_BUSY">
       <node ref="U1" pin="33" pinfunction="GPIO21" pintype="bidirectional"/>
     </net>
-    <net code="48" name="/uC_RESET">
-      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    <net code="61" name="/uC_RESET">
       <node ref="U1" pin="32" pinfunction="GPIO20" pintype="bidirectional"/>
     </net>
-    <net code="49" name="/~{USB_BOOT}">
+    <net code="62" name="/~{USB_BOOT}">
       <node ref="R2" pin="1" pintype="passive"/>
       <node ref="SW4" pin="3" pinfunction="3" pintype="unspecified"/>
       <node ref="SW4" pin="4" pinfunction="4" pintype="unspecified"/>
     </net>
-    <net code="50" name="GND">
+    <net code="63" name="GND">
       <node ref="C1" pin="2" pintype="passive"/>
       <node ref="C10" pin="2" pintype="passive"/>
       <node ref="C11" pin="2" pintype="passive"/>
@@ -3009,8 +4082,20 @@
       <node ref="C31" pin="2" pintype="passive"/>
       <node ref="C32" pin="2" pintype="passive"/>
       <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C44" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C47" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C48" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C49" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C50" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C52" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C55" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C58" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C59" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C60" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C62" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C63" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="C8" pin="2" pintype="passive"/>
       <node ref="C9" pin="2" pintype="passive"/>
@@ -3020,16 +4105,13 @@
       <node ref="D4" pin="C" pinfunction="C" pintype="passive"/>
       <node ref="D5" pin="C" pintype="passive"/>
       <node ref="IC3" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="IC4" pin="3" pinfunction="D" pintype="passive"/>
       <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
       <node ref="J3" pin="A1" pinfunction="GND" pintype="passive"/>
       <node ref="J3" pin="A12" pinfunction="GND" pintype="passive"/>
       <node ref="J3" pin="B1" pinfunction="GND" pintype="passive"/>
       <node ref="J3" pin="B12" pinfunction="GND" pintype="passive"/>
-      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
@@ -3041,6 +4123,7 @@
       <node ref="R3" pin="2" pintype="passive"/>
       <node ref="R30" pin="2" pintype="passive"/>
       <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="RFIO1" pin="2" pinfunction="GND" pintype="passive"/>
       <node ref="SW1" pin="1" pinfunction="1" pintype="unspecified"/>
       <node ref="SW1" pin="2" pinfunction="2" pintype="unspecified"/>
       <node ref="SW10" pin="1" pinfunction="1" pintype="unspecified"/>
@@ -3064,130 +4147,218 @@
       <node ref="U4" pin="2" pinfunction="V_{SS}" pintype="power_in"/>
       <node ref="U5" pin="2" pinfunction="V-" pintype="power_in"/>
       <node ref="U6" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U7" pin="20" pinfunction="GND" pintype="passive"/>
+      <node ref="U7" pin="25" pinfunction="GND" pintype="passive"/>
+      <node ref="U7" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="U7" pin="8" pinfunction="GND" pintype="passive"/>
+      <node ref="U8" pin="2" pinfunction="GND" pintype="power_out"/>
       <node ref="X1" pin="2" pinfunction="2" pintype="unspecified"/>
       <node ref="X1" pin="4" pinfunction="4" pintype="unspecified"/>
+      <node ref="XTAL1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="XTAL1" pin="4" pinfunction="4" pintype="unspecified"/>
     </net>
-    <net code="51" name="Net-(C12-Pad2)">
+    <net code="64" name="Net-(C12-Pad2)">
       <node ref="C12" pin="2" pintype="passive"/>
       <node ref="R9" pin="1" pintype="passive"/>
       <node ref="X1" pin="3" pinfunction="3" pintype="unspecified"/>
     </net>
-    <net code="52" name="Net-(C21-Pad1)">
+    <net code="65" name="Net-(C21-Pad1)">
       <node ref="C21" pin="1" pintype="passive"/>
       <node ref="R16" pin="2" pintype="passive"/>
       <node ref="U6" pin="1" pintype="input"/>
     </net>
-    <net code="53" name="Net-(C23-Pad1)">
+    <net code="66" name="Net-(C23-Pad1)">
       <node ref="C23" pin="1" pintype="passive"/>
       <node ref="R19" pin="2" pintype="passive"/>
       <node ref="U6" pin="3" pintype="input"/>
     </net>
-    <net code="54" name="Net-(C24-Pad1)">
+    <net code="67" name="Net-(C24-Pad1)">
       <node ref="C24" pin="1" pintype="passive"/>
       <node ref="R21" pin="2" pintype="passive"/>
       <node ref="U6" pin="5" pintype="input"/>
     </net>
-    <net code="55" name="Net-(C25-Pad1)">
+    <net code="68" name="Net-(C25-Pad1)">
       <node ref="C25" pin="1" pintype="passive"/>
       <node ref="R25" pin="2" pintype="passive"/>
       <node ref="U6" pin="9" pintype="input"/>
     </net>
-    <net code="56" name="Net-(C26-Pad1)">
+    <net code="69" name="Net-(C26-Pad1)">
       <node ref="C26" pin="1" pintype="passive"/>
       <node ref="R26" pin="2" pintype="passive"/>
       <node ref="U6" pin="11" pintype="input"/>
     </net>
-    <net code="57" name="Net-(C27-Pad1)">
+    <net code="70" name="Net-(C27-Pad1)">
       <node ref="C27" pin="1" pintype="passive"/>
       <node ref="R27" pin="2" pintype="passive"/>
       <node ref="U6" pin="13" pintype="input"/>
     </net>
-    <net code="58" name="Net-(D3-PadA)">
+    <net code="71" name="Net-(C53-Pad1)">
+      <node ref="C53" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C55" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C57" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L13" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(C57-Pad1)">
+      <node ref="C57" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L14" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(C61-Pad1)">
+      <node ref="C61" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C62" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L15" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(D3-PadA)">
       <node ref="D3" pin="A" pinfunction="A" pintype="passive"/>
       <node ref="R33" pin="2" pintype="passive"/>
     </net>
-    <net code="59" name="Net-(D4-PadA)">
+    <net code="75" name="Net-(D4-PadA)">
       <node ref="D4" pin="A" pinfunction="A" pintype="passive"/>
       <node ref="R28" pin="2" pintype="passive"/>
     </net>
-    <net code="60" name="Net-(D5-PadA)">
+    <net code="76" name="Net-(D5-PadA)">
       <node ref="D5" pin="A" pintype="passive"/>
       <node ref="R32" pin="2" pintype="passive"/>
     </net>
-    <net code="61" name="Net-(IC1-S)">
+    <net code="77" name="Net-(D6-PadA)">
+      <node ref="D6" pin="A" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(IC1-S)">
       <node ref="IC1" pin="2" pinfunction="S" pintype="passive"/>
       <node ref="IC2" pin="2" pinfunction="S" pintype="passive"/>
     </net>
-    <net code="62" name="Net-(IC3-G)">
+    <net code="79" name="Net-(IC3-G)">
       <node ref="IC3" pin="1" pinfunction="G" pintype="passive"/>
       <node ref="R34" pin="2" pintype="passive"/>
     </net>
-    <net code="63" name="Net-(IC3-S)">
+    <net code="80" name="Net-(IC3-S)">
       <node ref="D3" pin="C" pinfunction="C" pintype="passive"/>
       <node ref="IC3" pin="2" pinfunction="S" pintype="passive"/>
     </net>
-    <net code="64" name="Net-(R16-Pad1)">
+    <net code="81" name="Net-(IC4-G)">
+      <node ref="IC4" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(IC4-S)">
+      <node ref="D6" pin="C" pintype="passive"/>
+      <node ref="IC4" pin="2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(R16-Pad1)">
       <node ref="R16" pin="1" pintype="passive"/>
       <node ref="R17" pin="2" pintype="passive"/>
       <node ref="SW12" pin="3" pinfunction="3" pintype="unspecified"/>
       <node ref="SW12" pin="4" pinfunction="4" pintype="unspecified"/>
     </net>
-    <net code="65" name="Net-(R18-Pad2)">
+    <net code="84" name="Net-(R18-Pad2)">
       <node ref="R18" pin="2" pintype="passive"/>
       <node ref="R19" pin="1" pintype="passive"/>
       <node ref="SW13" pin="3" pinfunction="3" pintype="unspecified"/>
       <node ref="SW13" pin="4" pinfunction="4" pintype="unspecified"/>
     </net>
-    <net code="66" name="Net-(R20-Pad2)">
+    <net code="85" name="Net-(R20-Pad2)">
       <node ref="R20" pin="2" pintype="passive"/>
       <node ref="R21" pin="1" pintype="passive"/>
       <node ref="SW14" pin="3" pinfunction="3" pintype="unspecified"/>
       <node ref="SW14" pin="4" pinfunction="4" pintype="unspecified"/>
     </net>
-    <net code="67" name="Net-(R22-Pad2)">
+    <net code="86" name="Net-(R22-Pad2)">
       <node ref="R22" pin="2" pintype="passive"/>
       <node ref="R25" pin="1" pintype="passive"/>
       <node ref="SW11" pin="3" pinfunction="3" pintype="unspecified"/>
       <node ref="SW11" pin="4" pinfunction="4" pintype="unspecified"/>
     </net>
-    <net code="68" name="Net-(R23-Pad2)">
+    <net code="87" name="Net-(R23-Pad2)">
       <node ref="R23" pin="2" pintype="passive"/>
       <node ref="R26" pin="1" pintype="passive"/>
       <node ref="SW9" pin="3" pinfunction="3" pintype="unspecified"/>
       <node ref="SW9" pin="4" pinfunction="4" pintype="unspecified"/>
     </net>
-    <net code="69" name="Net-(R24-Pad2)">
+    <net code="88" name="Net-(R24-Pad2)">
       <node ref="R24" pin="2" pintype="passive"/>
       <node ref="R27" pin="1" pintype="passive"/>
       <node ref="SW10" pin="3" pinfunction="3" pintype="unspecified"/>
       <node ref="SW10" pin="4" pinfunction="4" pintype="unspecified"/>
     </net>
-    <net code="70" name="Net-(U1-USB_DM)">
+    <net code="89" name="Net-(RFIO1-Signal)">
+      <node ref="C63" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L15" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RFIO1" pin="1" pinfunction="Signal" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(U1-USB_DM)">
       <node ref="R8" pin="2" pintype="passive"/>
       <node ref="U1" pin="51" pinfunction="USB_DM" pintype="bidirectional"/>
     </net>
-    <net code="71" name="Net-(U1-USB_DP)">
+    <net code="91" name="Net-(U1-USB_DP)">
       <node ref="R7" pin="2" pintype="passive"/>
       <node ref="U1" pin="52" pinfunction="USB_DP" pintype="bidirectional"/>
     </net>
-    <net code="72" name="Net-(U3-SS_TR)">
+    <net code="92" name="Net-(U3-SS_TR)">
       <node ref="C20" pin="1" pintype="passive"/>
       <node ref="U3" pin="6" pinfunction="SS_TR" pintype="input"/>
     </net>
-    <net code="73" name="Net-(U4-PROG)">
+    <net code="93" name="Net-(U4-PROG)">
       <node ref="R12" pin="1" pintype="passive"/>
       <node ref="U4" pin="5" pinfunction="PROG" pintype="input"/>
     </net>
-    <net code="74" name="Net-(U5-IN+)">
+    <net code="94" name="Net-(U5-IN+)">
       <node ref="R29" pin="2" pintype="passive"/>
       <node ref="R30" pin="1" pintype="passive"/>
       <node ref="U5" pin="3" pinfunction="IN+" pintype="input"/>
     </net>
-    <net code="75" name="Net-(U5-IN-)">
+    <net code="95" name="Net-(U5-IN-)">
       <node ref="U5" pin="4" pinfunction="IN-" pintype="input"/>
       <node ref="U5" pin="5" pinfunction="REF" pintype="power_in"/>
     </net>
-    <net code="76" name="VBUS">
+    <net code="96" name="Net-(U7-DCC_SW)">
+      <node ref="L9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U7" pin="9" pinfunction="DCC_SW" pintype="power_in"/>
+    </net>
+    <net code="97" name="Net-(U7-RFI_N)">
+      <node ref="C54" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U7" pin="22" pinfunction="RFI_N" pintype="passive"/>
+    </net>
+    <net code="98" name="Net-(U7-RFI_P)">
+      <node ref="C52" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="21" pinfunction="RFI_P" pintype="passive"/>
+    </net>
+    <net code="99" name="Net-(U7-RFO)">
+      <node ref="C53" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="23" pinfunction="RFO" pintype="passive"/>
+    </net>
+    <net code="100" name="Net-(U7-VREG)">
+      <node ref="C44" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="7" pinfunction="VREG" pintype="power_in"/>
+    </net>
+    <net code="101" name="Net-(U8-*CTRL{slash}VDD)">
+      <node ref="C60" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R36" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U8" pin="6" pinfunction="*CTRL/VDD" pintype="power_in"/>
+    </net>
+    <net code="102" name="Net-(U8-CTRL)">
+      <node ref="C59" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R35" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U8" pin="4" pinfunction="CTRL" pintype="unspecified"/>
+    </net>
+    <net code="103" name="Net-(U8-RF1)">
+      <node ref="C58" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U8" pin="1" pinfunction="RF1" pintype="bidirectional"/>
+    </net>
+    <net code="104" name="Net-(U8-RF2)">
+      <node ref="C54" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="RF2" pintype="bidirectional"/>
+    </net>
+    <net code="105" name="Net-(U8-RFC)">
+      <node ref="C61" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U8" pin="5" pinfunction="RFC" pintype="unspecified"/>
+    </net>
+    <net code="106" name="VBUS">
       <node ref="C17" pin="1" pintype="passive"/>
       <node ref="CR1" pin="1" pintype="unspecified"/>
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
@@ -3201,55 +4372,40 @@
       <node ref="R3" pin="1" pintype="passive"/>
       <node ref="U4" pin="4" pinfunction="V_{DD}" pintype="power_in"/>
     </net>
-    <net code="77" name="unconnected-(J2-Pin_3-Pad3)">
-      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
-    </net>
-    <net code="78" name="unconnected-(J2-Pin_4-Pad4)">
-      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
-    </net>
-    <net code="79" name="unconnected-(J2-Pin_5-Pad5)">
-      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive+no_connect"/>
-    </net>
-    <net code="80" name="unconnected-(J3-SBU1-PadA8)">
+    <net code="107" name="unconnected-(J3-SBU1-PadA8)">
       <node ref="J3" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="81" name="unconnected-(J3-SBU2-PadB8)">
+    <net code="108" name="unconnected-(J3-SBU2-PadB8)">
       <node ref="J3" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="82" name="unconnected-(J3-SHIELD-PadS1)">
+    <net code="109" name="unconnected-(J3-SHIELD-PadS1)">
       <node ref="J3" pin="S1" pinfunction="SHIELD" pintype="passive+no_connect"/>
     </net>
-    <net code="83" name="unconnected-(J4-Pin_1-Pad1)">
-      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
-    </net>
-    <net code="84" name="unconnected-(U1-GPIO14-Pad18)">
+    <net code="110" name="unconnected-(U1-GPIO14-Pad18)">
       <node ref="U1" pin="18" pinfunction="GPIO14" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="85" name="unconnected-(U1-GPIO15-Pad19)">
+    <net code="111" name="unconnected-(U1-GPIO15-Pad19)">
       <node ref="U1" pin="19" pinfunction="GPIO15" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="86" name="unconnected-(U1-GPIO16-Pad27)">
+    <net code="112" name="unconnected-(U1-GPIO16-Pad27)">
       <node ref="U1" pin="27" pinfunction="GPIO16" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="87" name="unconnected-(U1-GPIO24-Pad36)">
-      <node ref="U1" pin="36" pinfunction="GPIO24" pintype="bidirectional+no_connect"/>
+    <net code="113" name="unconnected-(U1-GPIO17-Pad28)">
+      <node ref="U1" pin="28" pinfunction="GPIO17" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="88" name="unconnected-(U1-GPIO25-Pad37)">
-      <node ref="U1" pin="37" pinfunction="GPIO25" pintype="bidirectional+no_connect"/>
-    </net>
-    <net code="89" name="unconnected-(U1-GPIO26_ADC0-Pad40)">
+    <net code="114" name="unconnected-(U1-GPIO26_ADC0-Pad40)">
       <node ref="U1" pin="40" pinfunction="GPIO26_ADC0" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="90" name="unconnected-(U1-GPIO27_ADC1-Pad41)">
+    <net code="115" name="unconnected-(U1-GPIO27_ADC1-Pad41)">
       <node ref="U1" pin="41" pinfunction="GPIO27_ADC1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="91" name="unconnected-(U1-GPIO28_ADC2-Pad42)">
+    <net code="116" name="unconnected-(U1-GPIO28_ADC2-Pad42)">
       <node ref="U1" pin="42" pinfunction="GPIO28_ADC2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="92" name="unconnected-(U1-GPIO29_ADC3-Pad43)">
+    <net code="117" name="unconnected-(U1-GPIO29_ADC3-Pad43)">
       <node ref="U1" pin="43" pinfunction="GPIO29_ADC3" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="93" name="unconnected-(U4-CE-Pad1)">
+    <net code="118" name="unconnected-(U4-CE-Pad1)">
       <node ref="U4" pin="1" pinfunction="CE" pintype="input+no_connect"/>
     </net>
   </nets>

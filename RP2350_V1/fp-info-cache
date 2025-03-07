@@ -1,4 +1,4 @@
-24715318757761278
+24717059874308129
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -68571,6 +68571,13 @@ Variable Resistor
 0
 5
 5
+My_Footprints
+PE4259_RF_SW
+
+
+0
+6
+6
 My_Footprints
 PTS 647 SN50 SMTR2 LFS
 

@@ -1284,144 +1284,6 @@
 				)
 			)
 		)
-		(symbol "reference-altium-import:GND_POWER_GROUND"
-			(power)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "GND"
-				(at 0 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name 'GND'"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "power-flag"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "GND_POWER_GROUND_0_0"
-				(polyline
-					(pts
-						(xy -2.54 -2.54) (xy 2.54 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 -3.302) (xy 1.778 -3.302)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 -4.064) (xy 1.016 -4.064)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.254 -4.826) (xy 0.254 -4.826)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 0 0)
-					(length 0) hide
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "reference-altium-import:root_0_Inductor"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2530,12 +2392,6 @@
 		(uuid "414ddfce-7519-41ca-846c-ad1d5c9a770f")
 	)
 	(junction
-		(at 17.78 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4a90a554-9e82-424c-9c51-9aad9981d61d")
-	)
-	(junction
 		(at 261.62 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2679,6 +2535,16 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 73.66) (xy 189.23 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c5a2404-3083-4c29-b6cc-4b34ba4ca3c4")
+	)
+	(wire
+		(pts
 			(xy 143.51 55.88) (xy 148.59 55.88)
 		)
 		(stroke
@@ -2686,6 +2552,16 @@
 			(type default)
 		)
 		(uuid "1cb46b60-56ea-43f7-b805-4cdb59c0e8d9")
+	)
+	(wire
+		(pts
+			(xy 241.3 83.82) (xy 241.3 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2613aa80-b73f-4645-9b59-f16abfada428")
 	)
 	(wire
 		(pts
@@ -2780,6 +2656,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 54.61) (xy 109.22 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "354ff6bf-65ed-4c26-bc27-dc132e7e03e0")
+	)
+	(wire
+		(pts
 			(xy 59.69 86.36) (xy 26.67 86.36)
 		)
 		(stroke
@@ -2807,6 +2693,16 @@
 			(type default)
 		)
 		(uuid "3c014670-88ce-4e31-a94e-fc6a63893c99")
+	)
+	(wire
+		(pts
+			(xy 218.44 49.53) (xy 218.44 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cba74ad-1ee7-4f2e-b95d-7a9bbfdbb3c7")
 	)
 	(wire
 		(pts
@@ -2880,6 +2776,16 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 73.66) (xy 175.26 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49356e6c-01b5-4bca-a7a1-11c70ce5e5e7")
+	)
+	(wire
+		(pts
 			(xy 99.06 72.39) (xy 100.33 72.39)
 		)
 		(stroke
@@ -2940,13 +2846,33 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 63.5) (xy 109.22 63.5)
+			(xy 106.68 63.5) (xy 125.73 63.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "568f9467-b538-46d7-98a1-d8b41c57c697")
+	)
+	(wire
+		(pts
+			(xy 118.11 54.61) (xy 118.11 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "581cc832-30cf-4d2a-a60d-2795eabb772b")
+	)
+	(wire
+		(pts
+			(xy 261.62 81.28) (xy 261.62 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5857cc51-01c3-453f-b833-7d2e58afaf32")
 	)
 	(wire
 		(pts
@@ -3040,7 +2966,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 82.55) (xy 116.84 85.09)
+			(xy 116.84 82.55) (xy 116.84 86.36)
 		)
 		(stroke
 			(width 0)
@@ -3067,16 +2993,6 @@
 			(type default)
 		)
 		(uuid "81b45bdf-7fe3-4b0a-8de7-f37169671db8")
-	)
-	(wire
-		(pts
-			(xy 181.61 73.66) (xy 189.23 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8260239d-9d07-4703-bedc-015026a2cc56")
 	)
 	(wire
 		(pts
@@ -3130,6 +3046,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 113.03) (xy 218.44 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85deb363-c6fe-4bae-ac7d-816de7b67215")
+	)
+	(wire
+		(pts
 			(xy 49.53 40.64) (xy 49.53 43.18)
 		)
 		(stroke
@@ -3157,6 +3083,16 @@
 			(type default)
 		)
 		(uuid "88d4d9c2-396c-4217-ae4d-ab095ef31b70")
+	)
+	(wire
+		(pts
+			(xy 181.61 76.2) (xy 181.61 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ce5d278-45d0-492e-911f-0927ca910b07")
 	)
 	(wire
 		(pts
@@ -3280,16 +3216,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 63.5) (xy 124.46 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b37346f9-95ad-4239-a20a-a3ad48bfbaf6")
-	)
-	(wire
-		(pts
 			(xy 186.69 63.5) (xy 175.26 63.5)
 		)
 		(stroke
@@ -3340,33 +3266,13 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 80.01) (xy 17.78 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c06810fc-4d70-4e6c-89de-2502cbfa6e68")
-	)
-	(wire
-		(pts
-			(xy 17.78 78.74) (xy 59.69 78.74)
+			(xy 15.24 78.74) (xy 59.69 78.74)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "c1517b3c-76df-480c-8bf0-2a52d657fbab")
-	)
-	(wire
-		(pts
-			(xy 81.28 116.84) (xy 81.28 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c850c38a-0382-4c44-98c3-bd41a33c07bc")
 	)
 	(wire
 		(pts
@@ -3440,6 +3346,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 73.66) (xy 148.59 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4bffc2a-1a49-4256-939f-442c1133ea50")
+	)
+	(wire
+		(pts
 			(xy 186.69 63.5) (xy 186.69 71.12)
 		)
 		(stroke
@@ -3500,16 +3416,6 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 78.74) (xy 17.78 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4566c75-c7f5-4505-9c26-2038de9a73ca")
-	)
-	(wire
-		(pts
 			(xy 99.06 74.93) (xy 106.68 74.93)
 		)
 		(stroke
@@ -3540,7 +3446,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 81.28) (xy 271.78 78.74)
+			(xy 271.78 78.74) (xy 271.78 83.82)
 		)
 		(stroke
 			(width 0)
@@ -3567,18 +3473,6 @@
 			(type default)
 		)
 		(uuid "ff1c44be-f7ff-4c16-919c-c44ba7c4c947")
-	)
-	(rectangle
-		(start 58.42 114.046)
-		(end 108.458 137.414)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid e40259f5-fbad-4e8b-a43a-7f1311c4312f)
 	)
 	(text "RF Output Options and filter:"
 		(exclude_from_sim no)
@@ -3658,19 +3552,8 @@
 		)
 		(uuid "bd1cd091-5671-4bbf-89ec-8def8dc0e874")
 	)
-	(text "for consistency, can we replace all \nthe ground symbols here with this one"
-		(exclude_from_sim no)
-		(at 83.058 131.826 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "d80818a9-fd20-4c4e-96fc-7b18f7a56ca7")
-	)
 	(label "NSS"
 		(at 99.06 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3681,7 +3564,6 @@
 	)
 	(label "DIO2"
 		(at 195.58 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3692,7 +3574,6 @@
 	)
 	(label "VR_PA"
 		(at 100.33 40.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3703,7 +3584,6 @@
 	)
 	(label "DIO2"
 		(at 49.53 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3714,7 +3594,6 @@
 	)
 	(label "ANT_SW"
 		(at 195.58 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3725,7 +3604,6 @@
 	)
 	(label "MOSI"
 		(at 99.06 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3736,7 +3614,6 @@
 	)
 	(label "DIO1"
 		(at 99.06 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3747,7 +3624,6 @@
 	)
 	(label "SX_NRESET"
 		(at 99.06 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3758,7 +3634,6 @@
 	)
 	(label "XTA"
 		(at 45.72 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3769,7 +3644,6 @@
 	)
 	(label "SCK"
 		(at 99.06 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3780,7 +3654,6 @@
 	)
 	(label "MISO"
 		(at 99.06 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3791,7 +3664,6 @@
 	)
 	(label "DIO3"
 		(at 49.53 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3802,7 +3674,6 @@
 	)
 	(label "XTB"
 		(at 45.72 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3813,7 +3684,6 @@
 	)
 	(label "BUSY"
 		(at 99.06 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3831,7 +3701,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "03bfb1d3-8871-4949-815f-92202dfae171")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR0106"
 			(at 38.1 100.33 0)
 			(effects
 				(font
@@ -3879,139 +3749,15 @@
 			(uuid "578c2e0a-8551-480b-8b35-70b222b43bad")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0106")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "#PWR078")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 49.53 43.18 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "067a5eaf-7616-4bc0-9ed9-82a46ce9aadb")
-		(property "Reference" "#PWR080"
-			(at 49.53 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 49.53 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 49.53 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 49.53 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 49.53 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "ae77bbd3-867b-41f2-949b-e5b3845e710f")
-		)
-		(instances
-			(project "RP2350_V1"
-				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR080")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 19.05 48.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0898207a-a635-4ebd-a835-c836a990d3e8")
-		(property "Reference" "#PWR068"
-			(at 19.05 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 19.05 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 19.05 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 19.05 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 19.05 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "67291f87-83ec-4d5a-99df-39f5ef790db7")
-		)
-		(instances
-			(project "RP2350_V1"
-				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -4026,7 +3772,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0a6b6019-c4a0-4835-9a6f-42811dea6788")
-		(property "Reference" "R36"
+		(property "Reference" "R1"
 			(at 209.296 40.894 0)
 			(effects
 				(font
@@ -4035,7 +3781,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "Resistor"
+		(property "Value" "100"
 			(at 209.042 43.434 0)
 			(effects
 				(font
@@ -4045,7 +3791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 217.17 41.91 0)
 			(effects
 				(font
@@ -4091,6 +3837,15 @@
 				(justify left bottom)
 			)
 		)
+		(property "LCSC" "C25076"
+			(at 217.17 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c8bc3cfb-5861-45a3-8ef3-e3dbe31c9693")
 		)
@@ -4098,6 +3853,12 @@
 			(uuid "62438610-59c4-4cba-9bb1-c8272e0b6f24")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "R1")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "R36")
@@ -4107,16 +3868,17 @@
 		)
 	)
 	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 241.3 81.28 0)
+		(lib_id "power:GND")
+		(at 49.53 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "0b5f211e-51d0-41f6-aa77-e88f86114ad6")
-		(property "Reference" "#PWR098"
-			(at 241.3 81.28 0)
+		(fields_autoplaced yes)
+		(uuid "0ad36e8e-7e87-437c-82ed-af6430a0fd30")
+		(property "Reference" "#PWR0117"
+			(at 49.53 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4125,7 +3887,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 241.3 87.63 0)
+			(at 49.53 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4133,7 +3895,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 241.3 81.28 0)
+			(at 49.53 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4142,7 +3904,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 81.28 0)
+			(at 49.53 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4150,8 +3912,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 241.3 81.28 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 49.53 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4159,13 +3921,91 @@
 				(hide yes)
 			)
 		)
-		(pin ""
-			(uuid "fe6aab32-aae4-4070-bdf7-29967504f0a5")
+		(pin "1"
+			(uuid "23dc2ec6-e09f-44fc-a680-3f25edb82732")
 		)
 		(instances
-			(project "RP2350_V1"
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0117")
+					(unit 1)
+				)
+			)
+			(project "RP2350_V2"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR098")
+					(reference "#PWR075")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 26.67 104.14 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1c69b535-c542-4dd2-8adb-9bb6bbc8c96b")
+		(property "Reference" "#PWR0105"
+			(at 26.67 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 26.67 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 26.67 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 26.67 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 26.67 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "526c6c32-0a64-4606-814b-1e01796ba9a8")
+		)
+		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0105")
+					(unit 1)
+				)
+			)
+			(project "RP2350_V2"
+				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -4180,7 +4020,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1c74677e-9ee2-440b-bb24-04a81c7e4d33")
-		(property "Reference" "C48"
+		(property "Reference" "C3"
 			(at 45.644 59.536 0)
 			(effects
 				(font
@@ -4199,7 +4039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 52.07 63.5 0)
 			(effects
 				(font
@@ -4275,6 +4115,15 @@
 				(justify left bottom)
 			)
 		)
+		(property "LCSC" "C14445"
+			(at 52.07 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "99d9a342-236b-48b1-aec5-34a4005527ef")
 		)
@@ -4282,6 +4131,12 @@
 			(uuid "77d9a5ea-8a77-4888-ac39-19ae753fe64d")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "C3")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "C48")
@@ -4299,7 +4154,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2c12a4a9-fda1-4ecd-a90e-ad84a8ae5c5b")
-		(property "Reference" "C55"
+		(property "Reference" "C9"
 			(at 143.18 68.426 0)
 			(effects
 				(font
@@ -4317,7 +4172,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 148.59 71.12 0)
 			(effects
 				(font
@@ -4394,6 +4249,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C318570"
+			(at 148.59 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f08ff741-a2a2-4d10-b42e-7cd77f33432b")
 		)
@@ -4401,6 +4265,12 @@
 			(uuid "d5120694-74c1-4f0a-b7c2-76bf30c285bc")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "C9")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "C55")
@@ -4418,7 +4288,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2cb2bd82-e70d-4764-86d8-531db009cef3")
-		(property "Reference" "C58"
+		(property "Reference" "C11"
 			(at 170.104 68.46 0)
 			(effects
 				(font
@@ -4436,7 +4306,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 175.26 71.12 0)
 			(effects
 				(font
@@ -4513,6 +4383,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1553"
+			(at 175.26 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "79b9c458-0fbe-4f2e-b0ea-e5b3835b71b6")
 		)
@@ -4520,6 +4399,12 @@
 			(uuid "703216a9-b7d4-46cf-b365-f21a7162acf3")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "C11")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "C58")
@@ -4554,7 +4439,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NX2016SA_NDK"
+		(property "Footprint" "My_Footprints:NX2016SA_NDK"
 			(at 17.78 40.64 0)
 			(effects
 				(font
@@ -4583,6 +4468,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1986260"
+			(at 17.78 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "25fe5f2f-0d0d-45ff-8453-6ec07b09551f")
 		)
@@ -4596,74 +4490,15 @@
 			(uuid "286b0674-715a-4fe0-b8ec-d8e56b175ea0")
 		)
 		(instances
-			(project ""
-				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
 					(reference "XTAL1")
 					(unit 1)
 				)
 			)
-		)
-	)
-	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 58.42 104.14 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3205d235-06c3-4ecb-b189-8ad50f1cfe02")
-		(property "Reference" "#PWR085"
-			(at 58.42 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 58.42 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 58.42 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 58.42 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 58.42 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "2b1ecd3d-c7e9-4b51-842c-cb2c7df2c92b")
-		)
-		(instances
-			(project "RP2350_V1"
+			(project ""
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR085")
+					(reference "XTAL1")
 					(unit 1)
 				)
 			)
@@ -4678,7 +4513,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "33377d49-7694-4edd-bedb-813de59a5724")
-		(property "Reference" "C47"
+		(property "Reference" "C2"
 			(at 40.894 100.584 0)
 			(effects
 				(font
@@ -4697,7 +4532,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 38.1 104.14 0)
 			(effects
 				(font
@@ -4773,6 +4608,15 @@
 				(justify left bottom)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 38.1 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1852e8c4-cc90-4c92-988c-acc979c2c004")
 		)
@@ -4780,6 +4624,12 @@
 			(uuid "f6aa1ec6-82af-4fdb-b959-16af52c292a6")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "C2")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "C47")
@@ -4798,7 +4648,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "399dfc74-056d-40d1-b82b-9bae1d9ef6af")
-		(property "Reference" "U7"
+		(property "Reference" "U1"
 			(at 79.756 62.23 0)
 			(effects
 				(font
@@ -4814,7 +4664,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "My_Footprints:SX1262_QFN24_4X4_SEM"
 			(at 80.01 85.09 0)
 			(effects
 				(font
@@ -4833,6 +4683,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 80.01 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C191341"
 			(at 80.01 85.09 0)
 			(effects
 				(font
@@ -4917,6 +4776,12 @@
 			(uuid "276babbb-f558-4b2b-9ac5-6eee901b3738")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "U1")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "U7")
@@ -4926,16 +4791,17 @@
 		)
 	)
 	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 26.67 104.14 0)
+		(lib_id "power:GND")
+		(at 118.11 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "3b1fd55c-c38a-47aa-98fc-55ed798c9b64")
-		(property "Reference" "#PWR079"
-			(at 26.67 104.14 0)
+		(fields_autoplaced yes)
+		(uuid "39abd95a-1284-405a-8338-5548a0e2a768")
+		(property "Reference" "#PWR0113"
+			(at 118.11 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4944,7 +4810,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 26.67 110.49 0)
+			(at 118.11 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4952,7 +4818,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 104.14 0)
+			(at 118.11 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4961,7 +4827,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 104.14 0)
+			(at 118.11 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4969,8 +4835,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 26.67 104.14 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 118.11 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4978,11 +4844,17 @@
 				(hide yes)
 			)
 		)
-		(pin ""
-			(uuid "bda01148-20a4-497c-90e5-8000a13a4fa1")
+		(pin "1"
+			(uuid "b232e2c5-859a-4887-b86f-bfd14e1840fb")
 		)
 		(instances
-			(project "RP2350_V1"
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0113")
+					(unit 1)
+				)
+			)
+			(project "RP2350_V2"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "#PWR079")
 					(unit 1)
@@ -4999,7 +4871,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3b24e3d1-d574-4c66-b711-055122f3b349")
-		(property "Reference" "L14"
+		(property "Reference" "L6"
 			(at 162.814 66.294 0)
 			(effects
 				(font
@@ -5017,7 +4889,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 157.48 63.5 0)
 			(effects
 				(font
@@ -5114,6 +4986,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C13595"
+			(at 157.48 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "18834e88-39f7-4c36-b9a3-feaacac944e2")
 		)
@@ -5121,6 +5002,12 @@
 			(uuid "8b3473db-a0bb-4ec6-8987-8aee5f009c95")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "L6")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "L14")
@@ -5138,7 +5025,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4008350f-3927-43be-a610-1fa1cb85c890")
-		(property "Reference" "C63"
+		(property "Reference" "C16"
 			(at 255.224 78.684 0)
 			(effects
 				(font
@@ -5156,7 +5043,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 261.62 81.28 0)
 			(effects
 				(font
@@ -5233,6 +5120,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C307447"
+			(at 261.62 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4f573a7a-c592-4998-af0d-222af5bdcaa9")
 		)
@@ -5240,9 +5136,87 @@
 			(uuid "48f00945-ba0b-4f11-b456-00b08484361c")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "C16")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "C63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 116.84 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "478f0dc2-48ba-4b9e-b7b1-eec5678d9411")
+		(property "Reference" "#PWR0115"
+			(at 116.84 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 116.84 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 116.84 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 116.84 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 116.84 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a1e22a1a-8f8a-43e9-8fb9-3daea4862d9e")
+		)
+		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0115")
+					(unit 1)
+				)
+			)
+			(project "RP2350_V2"
+				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -5257,7 +5231,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "489d788e-b15f-4f0f-b0fb-81fb0a2e8e08")
-		(property "Reference" "C61"
+		(property "Reference" "C14"
 			(at 233.426 71.374 0)
 			(effects
 				(font
@@ -5275,7 +5249,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 238.76 73.66 0)
 			(effects
 				(font
@@ -5359,6 +5333,12 @@
 			(uuid "37198dd4-5607-4713-b063-3989deb6467f")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "C14")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "C61")
@@ -5394,7 +5374,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMA_end_launch_1.0mm_9.52mm"
+		(property "Footprint" "My_Footprints:RF_CONN_LINX_CONSMA002-SMD-G-T"
 			(at 274.32 71.12 0)
 			(effects
 				(font
@@ -5451,6 +5431,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C22372912"
+			(at 274.32 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cad09eee-17e4-4e6e-932b-e34e5bb60cb9")
 		)
@@ -5458,6 +5447,12 @@
 			(uuid "aac78bed-67b0-459c-a757-7179a369f56c")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "RFIO1")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "RFIO1")
@@ -5475,7 +5470,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4e69b6fa-543b-4a53-8dd9-af46d05d6a9e")
-		(property "Reference" "C44"
+		(property "Reference" "C1"
 			(at 29.388 100.176 0)
 			(effects
 				(font
@@ -5494,7 +5489,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 26.67 104.14 0)
 			(effects
 				(font
@@ -5570,6 +5565,15 @@
 				(justify left bottom)
 			)
 		)
+		(property "LCSC" "C47339"
+			(at 26.67 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "98f3b062-51d7-4538-8058-90ed0883383f")
 		)
@@ -5577,6 +5581,12 @@
 			(uuid "8dc35fa2-e1d8-4031-83b0-9eb0a4c4c51f")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "C1")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "C44")
@@ -5594,7 +5604,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4eadf717-5bd8-4073-a17e-0eab2845c962")
-		(property "Reference" "L12"
+		(property "Reference" "L4"
 			(at 131.496 93.826 0)
 			(effects
 				(font
@@ -5612,7 +5622,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 130.81 100.33 0)
 			(effects
 				(font
@@ -5709,6 +5719,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C76787"
+			(at 130.81 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fb39b1a3-d6ea-41cb-b7f2-f61e2593c895")
 		)
@@ -5716,74 +5735,15 @@
 			(uuid "530cdd09-9040-4a1f-9920-4d5ddcf52fa7")
 		)
 		(instances
-			(project "RP2350_V1"
-				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "L12")
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "L4")
 					(unit 1)
 				)
 			)
-		)
-	)
-	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 218.44 110.49 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5399dd65-075c-4e57-8e55-695f6b361f8e")
-		(property "Reference" "#PWR096"
-			(at 218.44 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 218.44 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 218.44 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 218.44 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 218.44 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "4b26864f-49c0-4c11-acce-38084ee69f92")
-		)
-		(instances
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR096")
+					(reference "L12")
 					(unit 1)
 				)
 			)
@@ -5798,7 +5758,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "57f6d584-d424-458d-9814-bcc345a1c48b")
-		(property "Reference" "C53"
+		(property "Reference" "C7"
 			(at 138.354 53.694 0)
 			(effects
 				(font
@@ -5816,7 +5776,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 143.51 55.88 0)
 			(effects
 				(font
@@ -5893,6 +5853,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C318583"
+			(at 143.51 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "40581d01-9ccc-4190-b8de-e6e16150ddd4")
 		)
@@ -5900,6 +5869,12 @@
 			(uuid "ade196ee-034d-434b-9ea7-35f93be64aeb")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "C7")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "C53")
@@ -5917,7 +5892,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "58815b25-7633-4293-8f38-9649ebb2fbcb")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR0119"
 			(at 52.07 59.69 0)
 			(effects
 				(font
@@ -5965,6 +5940,12 @@
 			(uuid "4b1c53e8-733a-4d96-9bdc-e90914488b58")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0119")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "#PWR067")
@@ -5982,7 +5963,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "591c3ba5-e406-4c47-9a4d-cfb5d2a0b657")
-		(property "Reference" "C49"
+		(property "Reference" "C4"
 			(at 104.394 49.676 0)
 			(effects
 				(font
@@ -6000,7 +5981,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 109.22 52.07 0)
 			(effects
 				(font
@@ -6077,6 +6058,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C307339"
+			(at 109.22 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0ed3e12d-7e89-4616-9e35-10f6213ffdb2")
 		)
@@ -6084,74 +6074,15 @@
 			(uuid "ae34eae2-5970-4758-a8e3-7ecc140a7d13")
 		)
 		(instances
-			(project "RP2350_V1"
-				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "C49")
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "C4")
 					(unit 1)
 				)
 			)
-		)
-	)
-	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 148.59 71.12 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6447cdf1-7f2e-4699-8274-3313a41c4b18")
-		(property "Reference" "#PWR092"
-			(at 148.59 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 148.59 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 148.59 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 148.59 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 148.59 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "e0a90371-4ee4-4aa5-bcd0-530c3e1cb305")
-		)
-		(instances
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR092")
+					(reference "C49")
 					(unit 1)
 				)
 			)
@@ -6166,7 +6097,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6979637a-e18a-4e49-88e3-7a8267f5b106")
-		(property "Reference" "C59"
+		(property "Reference" "C13"
 			(at 221.234 106.68 0)
 			(effects
 				(font
@@ -6185,7 +6116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 218.44 102.87 0)
 			(effects
 				(font
@@ -6261,6 +6192,15 @@
 				(justify left bottom)
 			)
 		)
+		(property "LCSC" "C14442"
+			(at 218.44 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9deb855c-857e-4982-a498-6effe7d7726e")
 		)
@@ -6268,6 +6208,12 @@
 			(uuid "edf52741-6016-4bb2-a5cb-2b3597c59f5a")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "C13")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "C59")
@@ -6277,16 +6223,17 @@
 		)
 	)
 	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 175.26 71.12 0)
+		(lib_id "power:GND")
+		(at 181.61 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "6db72a60-9eb5-4251-bba8-410ab28f4df7")
-		(property "Reference" "#PWR094"
-			(at 175.26 71.12 0)
+		(fields_autoplaced yes)
+		(uuid "6e362466-4f41-4411-a074-17ab56125da1")
+		(property "Reference" "#PWR0102"
+			(at 181.61 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6295,7 +6242,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 175.26 77.47 0)
+			(at 181.61 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6303,7 +6250,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 175.26 71.12 0)
+			(at 181.61 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6312,7 +6259,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 175.26 71.12 0)
+			(at 181.61 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6320,8 +6267,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 175.26 71.12 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 181.61 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6329,13 +6276,19 @@
 				(hide yes)
 			)
 		)
-		(pin ""
-			(uuid "d5585d4c-d3d0-4822-a1e0-1bc7edb18441")
+		(pin "1"
+			(uuid "76ad48bf-1ee4-497e-801e-4c69845ecc3d")
 		)
 		(instances
-			(project "RP2350_V1"
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0102")
+					(unit 1)
+				)
+			)
+			(project "RP2350_V2"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR094")
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
@@ -6350,7 +6303,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "708dc223-0b17-4ec2-82fb-d29217ef834c")
-		(property "Reference" "R35"
+		(property "Reference" "R2"
 			(at 209.296 101.854 0)
 			(effects
 				(font
@@ -6369,7 +6322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 217.17 102.87 0)
 			(effects
 				(font
@@ -6415,6 +6368,15 @@
 				(justify left bottom)
 			)
 		)
+		(property "LCSC" "C25076"
+			(at 217.17 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9fe4bf86-c6ed-4df2-97f5-7f6297030c4a")
 		)
@@ -6422,6 +6384,12 @@
 			(uuid "c99d251c-8421-443e-86bd-e381afb86b16")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "R2")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "R35")
@@ -6439,7 +6407,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "75099bd2-db3d-4ed9-a27a-85cbf6a4821c")
-		(property "Reference" "C52"
+		(property "Reference" "C6"
 			(at 124.414 105.354 0)
 			(effects
 				(font
@@ -6457,7 +6425,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 130.81 107.95 0)
 			(effects
 				(font
@@ -6534,6 +6502,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1553"
+			(at 130.81 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "39bc0145-d250-485d-b687-64168a8fd4cb")
 		)
@@ -6541,6 +6518,12 @@
 			(uuid "8e2ea27f-56cb-4965-b0ae-30b3f1dbde83")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "C6")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "C52")
@@ -6551,16 +6534,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 81.28 121.92 0)
+		(at 19.05 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "75b39a5a-c1ff-44a1-8dd4-d97c1153e5cc")
-		(property "Reference" "#PWR066"
-			(at 81.28 128.27 0)
+		(uuid "7a5a4946-e5e3-4648-9a07-76cea49b2e3d")
+		(property "Reference" "#PWR0116"
+			(at 19.05 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6569,7 +6552,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 127 0)
+			(at 19.05 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6577,7 +6560,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 121.92 0)
+			(at 19.05 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6586,7 +6569,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 121.92 0)
+			(at 19.05 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6595,7 +6578,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 81.28 121.92 0)
+			(at 19.05 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6604,28 +6587,35 @@
 			)
 		)
 		(pin "1"
-			(uuid "19c31aac-8716-44d0-96cc-806a9e86ce7c")
+			(uuid "cba81d52-735b-4497-b883-76293d828481")
 		)
 		(instances
-			(project ""
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0116")
+					(unit 1)
+				)
+			)
+			(project "RP2350_V2"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR066")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 118.11 52.07 0)
+		(lib_id "power:GND")
+		(at 241.3 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "8234aa08-4538-47ba-a37b-2f0cc2550934")
-		(property "Reference" "#PWR089"
-			(at 118.11 52.07 0)
+		(fields_autoplaced yes)
+		(uuid "8d1779fb-6303-4a2e-aca8-a6b69673ac44")
+		(property "Reference" "#PWR0120"
+			(at 241.3 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6634,7 +6624,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 118.11 58.42 0)
+			(at 241.3 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6642,7 +6632,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 118.11 52.07 0)
+			(at 241.3 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6651,7 +6641,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 118.11 52.07 0)
+			(at 241.3 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6659,8 +6649,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 118.11 52.07 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 241.3 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6668,13 +6658,19 @@
 				(hide yes)
 			)
 		)
-		(pin ""
-			(uuid "ac1ee663-bc1c-4eba-8fcb-f488b5dfc2d6")
+		(pin "1"
+			(uuid "05874ecf-727e-4ff7-844e-34328bfdf13c")
 		)
 		(instances
-			(project "RP2350_V1"
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0120")
+					(unit 1)
+				)
+			)
+			(project "RP2350_V2"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR089")
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -6689,7 +6685,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8f98fced-9a4a-4357-ae71-4e767b28553e")
-		(property "Reference" "C57"
+		(property "Reference" "C10"
 			(at 152.146 61.214 0)
 			(effects
 				(font
@@ -6707,7 +6703,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 157.48 63.5 0)
 			(effects
 				(font
@@ -6784,6 +6780,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C86288"
+			(at 157.48 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "189ef9a2-42a9-47cf-988f-9bc11fec3274")
 		)
@@ -6791,6 +6796,12 @@
 			(uuid "564bec4a-673b-4653-bfd1-b799daf09e8f")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "C10")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "C57")
@@ -6808,7 +6819,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "90776926-8196-40f1-bba4-7998c4fa2607")
-		(property "Reference" "C62"
+		(property "Reference" "C15"
 			(at 244.094 78.684 0)
 			(effects
 				(font
@@ -6826,7 +6837,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 241.3 81.28 0)
 			(effects
 				(font
@@ -6903,6 +6914,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C307447"
+			(at 241.3 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d680bca6-c3c8-4571-aa40-a85aeae55f6a")
 		)
@@ -6910,74 +6930,15 @@
 			(uuid "5f723ac1-ca5e-4e39-97eb-e40989684c4a")
 		)
 		(instances
-			(project "RP2350_V1"
-				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "C62")
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "C15")
 					(unit 1)
 				)
 			)
-		)
-	)
-	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 271.78 81.28 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "90afdac1-c8fd-4522-8309-ad4b2c540c9f")
-		(property "Reference" "#PWR0100"
-			(at 271.78 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 271.78 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 271.78 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 271.78 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 271.78 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "74034c37-9f1a-4e41-be04-766de8ff0007")
-		)
-		(instances
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR0100")
+					(reference "C62")
 					(unit 1)
 				)
 			)
@@ -6992,7 +6953,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "92526561-ed61-433c-ba05-3afb115284ae")
-		(property "Reference" "L15"
+		(property "Reference" "L7"
 			(at 250.16 71.95 0)
 			(effects
 				(font
@@ -7010,7 +6971,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 243.84 73.66 0)
 			(effects
 				(font
@@ -7107,6 +7068,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C74297"
+			(at 243.84 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9d3e63cf-92de-44b4-9b83-317043a7af4e")
 		)
@@ -7114,6 +7084,12 @@
 			(uuid "f0bd64b2-ad3a-407e-9d42-e0e58c871dc6")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "L7")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "L15")
@@ -7123,81 +7099,17 @@
 		)
 	)
 	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 218.44 49.53 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a2da63ba-e72f-4f61-9b26-674774d2ac61")
-		(property "Reference" "#PWR097"
-			(at 218.44 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 218.44 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 218.44 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 218.44 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 218.44 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "63ef3400-6a44-462b-a23a-b3c49034ece1")
-		)
-		(instances
-			(project "RP2350_V1"
-				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR097")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
+		(lib_id "power:GND")
 		(at 38.1 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "a4e1618b-f34d-41a5-89e8-69eeb4cf47dd")
-		(property "Reference" "#PWR082"
-			(at 38.1 104.14 0)
+		(fields_autoplaced yes)
+		(uuid "928af472-dc2e-480a-9a8d-bc6a77b019c8")
+		(property "Reference" "#PWR0107"
+			(at 38.1 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7206,7 +7118,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 38.1 110.49 0)
+			(at 38.1 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7231,7 +7143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 38.1 104.14 0)
 			(effects
 				(font
@@ -7240,13 +7152,91 @@
 				(hide yes)
 			)
 		)
-		(pin ""
-			(uuid "c60f5e8f-acd3-4b6e-bb8c-3c0d655cbfea")
+		(pin "1"
+			(uuid "df85d621-ea4e-460e-8167-f630a6759de0")
 		)
 		(instances
-			(project "RP2350_V1"
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0107")
+					(unit 1)
+				)
+			)
+			(project "RP2350_V2"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR082")
+					(reference "#PWR072")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.26 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "93df871b-8fd6-4343-8255-5de5821e0968")
+		(property "Reference" "#PWR0103"
+			(at 175.26 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 175.26 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "550b00e2-01fb-4f23-accb-8110815e1b59")
+		)
+		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0103")
+					(unit 1)
+				)
+			)
+			(project "RP2350_V2"
+				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -7262,7 +7252,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7e4cba1-c86e-4f7e-bc72-17a2f799d52b")
-		(property "Reference" "U8"
+		(property "Reference" "U2"
 			(at 216.154 65.024 0)
 			(effects
 				(font
@@ -7278,7 +7268,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "My_Footprints:PE4259_RF_SW"
 			(at 208.28 72.39 0)
 			(effects
 				(font
@@ -7298,6 +7288,15 @@
 		)
 		(property "Description" ""
 			(at 208.28 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C470892"
+			(at 207.01 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7324,9 +7323,159 @@
 			(uuid "b7dd13c6-9a91-4f63-96eb-df8fc342197f")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "U2")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "U8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 218.44 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ab1e9565-b67b-4769-afe3-1bba59048a71")
+		(property "Reference" "#PWR0110"
+			(at 218.44 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 218.44 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 218.44 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 218.44 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 218.44 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4f5ab6f3-a841-4272-90d8-a7fbc0508ece")
+		)
+		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0110")
+					(unit 1)
+				)
+			)
+			(project "RP2350_V2"
+				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
+					(reference "#PWR089")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 109.22 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ae9ce6be-efec-483e-9665-2d952dbd25cd")
+		(property "Reference" "#PWR0114"
+			(at 109.22 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 109.22 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 109.22 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c956f5ee-5f2d-465b-bdac-dbde1e23d442")
+		)
+		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0114")
+					(unit 1)
+				)
+			)
+			(project "RP2350_V2"
+				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -7341,7 +7490,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "aec10296-20ad-45f5-abfb-ada8882e2d61")
-		(property "Reference" "L9"
+		(property "Reference" "L1"
 			(at 35.992 90.016 0)
 			(effects
 				(font
@@ -7360,7 +7509,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "rlc_805_smd enlarged"
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric"
 			(at 33.02 91.44 0)
 			(effects
 				(font
@@ -7456,6 +7605,15 @@
 				(justify left bottom)
 			)
 		)
+		(property "LCSC" "C75634"
+			(at 33.02 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "979e113d-8603-4428-bb93-3ab3f417b1cb")
 		)
@@ -7463,6 +7621,12 @@
 			(uuid "7b9a03fd-1daf-4f3d-aae7-ae0829fb0f7c")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "L1")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "L9")
@@ -7472,16 +7636,17 @@
 		)
 	)
 	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 52.07 63.5 0)
+		(lib_id "power:GND")
+		(at 80.01 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "af67c03b-049a-4535-9003-a14b83b5ced1")
-		(property "Reference" "#PWR084"
-			(at 52.07 63.5 0)
+		(fields_autoplaced yes)
+		(uuid "b2a300a2-723a-47cc-b19a-a0f3c3a7e721")
+		(property "Reference" "#PWR01"
+			(at 80.01 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7490,7 +7655,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 52.07 69.85 0)
+			(at 80.01 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7498,7 +7663,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 52.07 63.5 0)
+			(at 80.01 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7507,7 +7672,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 52.07 63.5 0)
+			(at 80.01 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7515,8 +7680,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 52.07 63.5 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 80.01 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7524,78 +7689,19 @@
 				(hide yes)
 			)
 		)
-		(pin ""
-			(uuid "c0990107-0b60-460b-a149-e26a9828063f")
+		(pin "1"
+			(uuid "0a12f046-8fc8-4481-8417-54ca774f999b")
 		)
 		(instances
-			(project "RP2350_V1"
-				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR084")
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
-		)
-	)
-	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 78.74 91.44 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "af9fb2f8-6269-44e2-8de4-cb42ea755cd0")
-		(property "Reference" "#PWR086"
-			(at 78.74 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 78.74 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 78.74 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 78.74 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 78.74 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "4a0577e7-1c1d-4c31-bafc-a1819590976b")
-		)
-		(instances
-			(project "RP2350_V1"
+			(project "RP2350_V2"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR086")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -7610,7 +7716,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b3e9ee92-0b0f-44e9-9c23-736943fd445c")
-		(property "Reference" "L13"
+		(property "Reference" "L5"
 			(at 137.922 65.786 0)
 			(effects
 				(font
@@ -7628,7 +7734,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 132.08 63.5 0)
 			(effects
 				(font
@@ -7725,6 +7831,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C778764"
+			(at 132.08 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a74d5631-b292-4662-ad8f-74884daac37c")
 		)
@@ -7732,6 +7847,12 @@
 			(uuid "06f1c2c8-96ea-48bb-a803-4ee944f503a2")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "L5")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "L13")
@@ -7749,7 +7870,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bae07140-5178-46bc-9828-f9f6f3f59ef7")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR0111"
 			(at 191.77 45.72 0)
 			(effects
 				(font
@@ -7797,6 +7918,12 @@
 			(uuid "1fb870c8-778c-4c20-9f8d-a52db19ad1c0")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0111")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "#PWR069")
@@ -7806,16 +7933,17 @@
 		)
 	)
 	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 109.22 52.07 0)
+		(lib_id "power:GND")
+		(at 261.62 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "cb13fc10-a4c5-4adc-a10c-28e4c82a8c87")
-		(property "Reference" "#PWR087"
-			(at 109.22 52.07 0)
+		(fields_autoplaced yes)
+		(uuid "c0780ce8-90f7-421c-8653-fd7961524b6c")
+		(property "Reference" "#PWR0121"
+			(at 261.62 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7824,7 +7952,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 109.22 58.42 0)
+			(at 261.62 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7832,7 +7960,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 52.07 0)
+			(at 261.62 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7841,7 +7969,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 52.07 0)
+			(at 261.62 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7849,8 +7977,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 109.22 52.07 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 261.62 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7858,29 +7986,36 @@
 				(hide yes)
 			)
 		)
-		(pin ""
-			(uuid "2e0a8e17-5c17-4092-8d5f-e631b2b7d55c")
+		(pin "1"
+			(uuid "0cff68c4-9424-4544-bf54-a6c849b5d492")
 		)
 		(instances
-			(project "RP2350_V1"
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0121")
+					(unit 1)
+				)
+			)
+			(project "RP2350_V2"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR087")
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 261.62 81.28 0)
+		(lib_id "power:GND")
+		(at 218.44 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "d32ea7f6-59b4-4492-bd92-ad2ca03587a7")
-		(property "Reference" "#PWR099"
-			(at 261.62 81.28 0)
+		(fields_autoplaced yes)
+		(uuid "c59de4ae-6961-4152-a27c-07883265f767")
+		(property "Reference" "#PWR0109"
+			(at 218.44 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7889,7 +8024,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 261.62 87.63 0)
+			(at 218.44 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7897,7 +8032,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 261.62 81.28 0)
+			(at 218.44 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7906,7 +8041,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 261.62 81.28 0)
+			(at 218.44 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7914,8 +8049,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 261.62 81.28 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 218.44 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7923,29 +8058,36 @@
 				(hide yes)
 			)
 		)
-		(pin ""
-			(uuid "d4637387-8ea7-4705-b801-a549c246489e")
+		(pin "1"
+			(uuid "34785afe-9e56-403d-ab99-ba8db00f8517")
 		)
 		(instances
-			(project "RP2350_V1"
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0109")
+					(unit 1)
+				)
+			)
+			(project "RP2350_V2"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR099")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 130.81 107.95 0)
+		(lib_id "power:GND")
+		(at 148.59 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "d60b6153-a8ac-4f66-83cd-e115c9446c55")
-		(property "Reference" "#PWR091"
-			(at 130.81 107.95 0)
+		(fields_autoplaced yes)
+		(uuid "cf6d309c-37f6-462e-831d-8630425b4b49")
+		(property "Reference" "#PWR0104"
+			(at 148.59 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7954,7 +8096,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 130.81 114.3 0)
+			(at 148.59 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7962,7 +8104,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 107.95 0)
+			(at 148.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7971,7 +8113,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 107.95 0)
+			(at 148.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7979,8 +8121,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 130.81 107.95 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 148.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7988,13 +8130,91 @@
 				(hide yes)
 			)
 		)
-		(pin ""
-			(uuid "a8ef957f-8fd5-44c1-ad05-91294eb2cdf5")
+		(pin "1"
+			(uuid "57dbc970-12f7-49aa-b852-c1f300c041fa")
 		)
 		(instances
-			(project "RP2350_V1"
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0104")
+					(unit 1)
+				)
+			)
+			(project "RP2350_V2"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR091")
+					(reference "#PWR080")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 52.07 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d66c2648-81b9-42a9-b98a-1ed9e974529f")
+		(property "Reference" "#PWR0118"
+			(at 52.07 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 52.07 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 52.07 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 52.07 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 52.07 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2bcdd969-53aa-4368-b857-15f3b5b31cec")
+		)
+		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0118")
+					(unit 1)
+				)
+			)
+			(project "RP2350_V2"
+				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -8009,7 +8229,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d6a58563-c5ce-44bc-a965-41df581e3da8")
-		(property "Reference" "C60"
+		(property "Reference" "C12"
 			(at 221.234 45.72 0)
 			(effects
 				(font
@@ -8018,7 +8238,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "Cap"
+		(property "Value" "1n"
 			(at 216.154 41.402 0)
 			(effects
 				(font
@@ -8028,7 +8248,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 218.44 41.91 0)
 			(effects
 				(font
@@ -8104,6 +8324,15 @@
 				(justify left bottom)
 			)
 		)
+		(property "LCSC" "C14442"
+			(at 218.44 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b4d7f703-593e-47ef-a9e2-30ce85470920")
 		)
@@ -8111,6 +8340,12 @@
 			(uuid "4730344a-a186-47a5-bdf6-9d9269179f69")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "C12")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "C60")
@@ -8128,7 +8363,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d7da3006-d0f1-4eb6-a7da-82ebd83abf47")
-		(property "Reference" "C50"
+		(property "Reference" "C5"
 			(at 113.208 49.53 0)
 			(effects
 				(font
@@ -8146,7 +8381,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 118.11 52.07 0)
 			(effects
 				(font
@@ -8223,6 +8458,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C84706"
+			(at 118.11 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5fdd5e03-4c22-4cc1-96ee-cea78740ea57")
 		)
@@ -8230,74 +8474,15 @@
 			(uuid "8c16e55b-710d-491b-8afd-e146ff7cb9ba")
 		)
 		(instances
-			(project "RP2350_V1"
-				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "C50")
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "C5")
 					(unit 1)
 				)
 			)
-		)
-	)
-	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 181.61 73.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d82476d9-96f7-4319-b4b4-d0dd80297078")
-		(property "Reference" "#PWR095"
-			(at 181.61 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 181.61 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 181.61 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 181.61 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 181.61 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "e5e38f42-2149-46a3-9497-4e7a347e4b90")
-		)
-		(instances
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR095")
+					(reference "C50")
 					(unit 1)
 				)
 			)
@@ -8312,7 +8497,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dc72e78c-582c-49ad-b696-34131afe59b2")
-		(property "Reference" "C54"
+		(property "Reference" "C8"
 			(at 137.668 82.804 0)
 			(effects
 				(font
@@ -8330,7 +8515,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 143.51 85.09 0)
 			(effects
 				(font
@@ -8407,6 +8592,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C318575"
+			(at 143.51 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5bae931c-752d-49d3-9538-b68b31599204")
 		)
@@ -8414,6 +8608,12 @@
 			(uuid "a121d0ff-cdab-433a-b03e-d3f9ad88130f")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "C8")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "C54")
@@ -8431,7 +8631,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ec387a91-b2aa-4bbf-96d2-b3358e8268a6")
-		(property "Reference" "L11"
+		(property "Reference" "L3"
 			(at 126.416 53.186 0)
 			(effects
 				(font
@@ -8449,7 +8649,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "rlc_402_smd"
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 125.73 59.69 0)
 			(effects
 				(font
@@ -8543,6 +8743,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C27151"
+			(at 125.73 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -8553,6 +8762,12 @@
 			(uuid "6d5541c8-1ed9-470f-b4d3-a4968e63401e")
 		)
 		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "L3")
+					(unit 1)
+				)
+			)
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
 					(reference "L11")
@@ -8562,155 +8777,17 @@
 		)
 	)
 	(symbol
-		(lib_id "reference-altium-import:root_0_Inductor")
-		(at 109.22 63.5 0)
+		(lib_id "power:GND")
+		(at 58.42 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "ec3c0a2b-a8fc-4229-9384-0b8b60db6459")
-		(property "Reference" "L10"
-			(at 115.57 66.294 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "0R"
-			(at 116.332 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "rlc_402_smd"
-			(at 109.22 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 109.22 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Inductor SMD"
-			(at 109.22 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" "8-Jun-2000"
-			(at 109.22 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LATESTREVISIONDATE" "05-oct-2007  -  Semtech"
-			(at 109.22 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LATESTREVISIONNOTE" "Re-released for DXP Platform."
-			(at 109.22 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" "Altium Limited"
-			(at 109.22 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "CODE_JEITA" "0402"
-			(at 109.22 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "CODE_IEC" "1005"
-			(at 109.22 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTIUM_VALUE" "0R"
-			(at 115.778 66.238 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "69177c09-0d25-4f0c-9364-8dbb306e51bb")
-		)
-		(pin "2"
-			(uuid "015a4649-e9c9-44bc-9227-665268f1e1d3")
-		)
-		(instances
-			(project "RP2350_V1"
-				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "L10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "reference-altium-import:GND_POWER_GROUND")
-		(at 116.84 85.09 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f2cadf59-b2f6-4d0e-8554-4e35527caa72")
-		(property "Reference" "#PWR088"
-			(at 116.84 85.09 0)
+		(fields_autoplaced yes)
+		(uuid "f589a6e0-8c00-4ed9-a28a-c5f08851f99e")
+		(property "Reference" "#PWR0108"
+			(at 58.42 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8719,7 +8796,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 116.84 91.44 0)
+			(at 58.42 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8727,7 +8804,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 85.09 0)
+			(at 58.42 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8736,7 +8813,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 85.09 0)
+			(at 58.42 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8744,8 +8821,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 116.84 85.09 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 58.42 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8753,16 +8830,171 @@
 				(hide yes)
 			)
 		)
-		(pin ""
-			(uuid "cf79424e-54e2-473d-86ac-68e6a942721c")
+		(pin "1"
+			(uuid "db0b62e8-9891-4db6-a212-05fe0f5e607a")
 		)
 		(instances
-			(project "RP2350_V1"
-				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "#PWR088")
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
+			(project "RP2350_V2"
+				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
+					(reference "#PWR073")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 130.81 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fd52a38e-b7f7-46b6-bbdb-69b39a6fff69")
+		(property "Reference" "#PWR0112"
+			(at 130.81 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 130.81 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 130.81 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 130.81 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 130.81 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9d55cb44-1569-450a-b8e4-59278523258f")
+		)
+		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0112")
+					(unit 1)
+				)
+			)
+			(project "RP2350_V2"
+				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
+					(reference "#PWR074")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 271.78 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fea058ac-ff2f-46a5-9dc8-1b5127dad2c4")
+		(property "Reference" "#PWR0122"
+			(at 271.78 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 271.78 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 271.78 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 271.78 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 271.78 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "65e93b0d-998a-4c08-b24c-056c1a338923")
+		)
+		(instances
+			(project "SX1262kicad_sch"
+				(path "/2ab7b358-15d6-41b0-8f1e-0bda343b0c96"
+					(reference "#PWR0122")
+					(unit 1)
+				)
+			)
+			(project "RP2350_V2"
+				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
+					(reference "#PWR087")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
 		)
 	)
 )

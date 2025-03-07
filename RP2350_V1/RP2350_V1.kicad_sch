@@ -12454,7 +12454,6 @@
 	)
 	(label "UART_Rx_DEBUG"
 		(at 168.91 128.27 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12465,7 +12464,6 @@
 	)
 	(label "PG"
 		(at 257.81 236.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12476,7 +12474,6 @@
 	)
 	(label "QSPI_SCLK"
 		(at 288.29 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12487,7 +12484,6 @@
 	)
 	(label "SPI0_TX"
 		(at 199.39 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12498,7 +12494,6 @@
 	)
 	(label "BTN_MACRO_A"
 		(at 373.38 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12509,7 +12504,6 @@
 	)
 	(label "CS{slash}NSS"
 		(at 199.39 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12520,7 +12514,6 @@
 	)
 	(label "USB_D+"
 		(at 55.88 243.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12531,7 +12524,6 @@
 	)
 	(label "SWD"
 		(at 200.66 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12542,7 +12534,6 @@
 	)
 	(label "USB_D-"
 		(at 55.88 238.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12553,7 +12544,6 @@
 	)
 	(label "Converter_Out"
 		(at 260.35 223.52 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12564,7 +12554,6 @@
 	)
 	(label "QSPI_SD2"
 		(at 288.29 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12575,7 +12564,6 @@
 	)
 	(label "QSPI_SD0"
 		(at 288.29 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12586,7 +12574,6 @@
 	)
 	(label "~{USB_BOOT}"
 		(at 264.16 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12597,7 +12584,6 @@
 	)
 	(label "SPI1_TX"
 		(at 373.38 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12608,7 +12594,6 @@
 	)
 	(label "QSPI_SS"
 		(at 288.29 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12619,7 +12604,6 @@
 	)
 	(label "UART_Rx_DEBUG"
 		(at 373.38 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12630,7 +12614,6 @@
 	)
 	(label "BTN_MACRO_A"
 		(at 95.25 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12641,7 +12624,6 @@
 	)
 	(label "DISPLAY_BUSY"
 		(at 199.39 130.81 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12652,7 +12634,6 @@
 	)
 	(label "QSPI_SD1"
 		(at 288.29 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12663,7 +12644,6 @@
 	)
 	(label "UART_Tx_DEBUG"
 		(at 168.91 123.19 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12674,7 +12654,6 @@
 	)
 	(label "UART_Tx_DEBUG"
 		(at 373.38 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12685,7 +12664,6 @@
 	)
 	(label "VBAT"
 		(at 67.31 157.48 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12696,7 +12674,6 @@
 	)
 	(label "VBUS_5V"
 		(at 29.21 167.64 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12707,7 +12684,6 @@
 	)
 	(label "UVLO_RST"
 		(at 59.69 162.56 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12718,7 +12694,6 @@
 	)
 	(label "UVLO_RST"
 		(at 378.46 215.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12729,7 +12704,6 @@
 	)
 	(label "BTN_OK"
 		(at 161.29 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12740,7 +12714,6 @@
 	)
 	(label "QSPI_SD3"
 		(at 215.9 186.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12751,7 +12724,6 @@
 	)
 	(label "CS{slash}NSS"
 		(at 373.38 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12762,7 +12734,6 @@
 	)
 	(label "QSPI_SCLK"
 		(at 158.75 184.15 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12773,7 +12744,6 @@
 	)
 	(label "SWD"
 		(at 289.56 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12784,7 +12754,6 @@
 	)
 	(label "COMP_FSET"
 		(at 229.87 238.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12795,7 +12764,6 @@
 	)
 	(label "BTN_BACK"
 		(at 161.29 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12806,7 +12774,6 @@
 	)
 	(label "DISPLAY_DC"
 		(at 199.39 125.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12817,7 +12784,6 @@
 	)
 	(label "BTN_MACRO_B"
 		(at 95.25 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12828,7 +12794,6 @@
 	)
 	(label "SPI0_RX"
 		(at 373.38 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12839,7 +12804,6 @@
 	)
 	(label "SPI0_CLK"
 		(at 373.38 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12850,7 +12814,6 @@
 	)
 	(label "QSPI_SD3"
 		(at 288.29 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12861,7 +12824,6 @@
 	)
 	(label "uC_BUSY"
 		(at 199.39 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12872,7 +12834,6 @@
 	)
 	(label "RUN"
 		(at 293.37 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12883,7 +12844,6 @@
 	)
 	(label "SPI1_CS"
 		(at 199.39 123.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12894,7 +12854,6 @@
 	)
 	(label "DISPLAY_RESET"
 		(at 199.39 128.27 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12905,7 +12864,6 @@
 	)
 	(label "VBAT"
 		(at 41.91 167.64 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12916,7 +12874,6 @@
 	)
 	(label "SPI0_CLK"
 		(at 199.39 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12927,7 +12884,6 @@
 	)
 	(label "SWCLK"
 		(at 289.56 153.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12938,7 +12894,6 @@
 	)
 	(label "SPI1_TX"
 		(at 199.39 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12949,7 +12904,6 @@
 	)
 	(label "DIO1"
 		(at 199.39 49.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12960,7 +12914,6 @@
 	)
 	(label "RUN"
 		(at 392.43 215.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12971,7 +12924,6 @@
 	)
 	(label "BTN_MACRO_C"
 		(at 373.38 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12982,7 +12934,6 @@
 	)
 	(label "FB"
 		(at 257.81 231.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12993,7 +12944,6 @@
 	)
 	(label "SPI0_TX"
 		(at 373.38 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13004,7 +12954,6 @@
 	)
 	(label "VBUS_5V"
 		(at 52.07 223.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13015,7 +12964,6 @@
 	)
 	(label "XIN"
 		(at 294.64 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13026,7 +12974,6 @@
 	)
 	(label "QSPI_SS"
 		(at 158.75 179.07 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13037,7 +12984,6 @@
 	)
 	(label "QSPI_SD0"
 		(at 215.9 176.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13048,7 +12994,6 @@
 	)
 	(label "USB_D-"
 		(at 396.24 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13059,7 +13004,6 @@
 	)
 	(label "USB_CC1"
 		(at 52.07 228.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13070,7 +13014,6 @@
 	)
 	(label "SPI1_CS"
 		(at 373.38 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13081,7 +13024,6 @@
 	)
 	(label "QSPI_SD2"
 		(at 215.9 184.15 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13092,7 +13034,6 @@
 	)
 	(label "USB_D+"
 		(at 396.24 72.39 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13103,7 +13044,6 @@
 	)
 	(label "VREG_LX"
 		(at 287.02 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13114,7 +13054,6 @@
 	)
 	(label "USB_CC2"
 		(at 52.07 231.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13125,7 +13064,6 @@
 	)
 	(label "DISPLAY_DC"
 		(at 373.38 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13136,7 +13074,6 @@
 	)
 	(label "BTN_OK"
 		(at 373.38 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13147,7 +13084,6 @@
 	)
 	(label "DIO1"
 		(at 373.38 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13158,7 +13094,6 @@
 	)
 	(label "XOUT"
 		(at 294.64 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13169,7 +13104,6 @@
 	)
 	(label "BTN_MACRO_B"
 		(at 373.38 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13180,7 +13114,6 @@
 	)
 	(label "BTN_NEXT"
 		(at 161.29 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13191,7 +13124,6 @@
 	)
 	(label "VBAT"
 		(at 137.16 240.03 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13202,7 +13134,6 @@
 	)
 	(label "QSPI_SD1"
 		(at 215.9 179.07 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13213,7 +13144,6 @@
 	)
 	(label "uC_RESET"
 		(at 199.39 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13224,7 +13154,6 @@
 	)
 	(label "SWCLK"
 		(at 200.66 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13235,7 +13164,6 @@
 	)
 	(label "DISPLAY_BUSY"
 		(at 373.38 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13246,7 +13174,6 @@
 	)
 	(label "BTN_MACRO_C"
 		(at 95.25 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13257,7 +13184,6 @@
 	)
 	(label "uC_RESET"
 		(at 373.38 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13268,7 +13194,6 @@
 	)
 	(label "SPI0_RX"
 		(at 199.39 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13279,7 +13204,6 @@
 	)
 	(label "Converter_In"
 		(at 214.63 223.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13290,7 +13214,6 @@
 	)
 	(label "RUN_IN"
 		(at 278.13 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13301,7 +13224,6 @@
 	)
 	(label "BTN_BACK"
 		(at 373.38 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13312,7 +13234,6 @@
 	)
 	(label "uC_BUSY"
 		(at 373.38 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13323,7 +13244,6 @@
 	)
 	(label "DISPLAY_RESET"
 		(at 373.38 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13334,7 +13254,6 @@
 	)
 	(label "SPI1_CLK"
 		(at 373.38 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13345,7 +13264,6 @@
 	)
 	(label "VREG_AVDD"
 		(at 288.925 67.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13356,7 +13274,6 @@
 	)
 	(label "SPI1_CLK"
 		(at 199.39 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13367,7 +13284,6 @@
 	)
 	(label "BTN_NEXT"
 		(at 373.38 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
