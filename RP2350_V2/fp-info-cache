@@ -1,4 +1,4 @@
-24718850360748190
+24720591778331652
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -68627,6 +68627,13 @@ TPS75233QPWPREP
 0
 30
 22
+My_Footprints
+RF_ANT_OUTPUT_901-143-6RFX
+
+901-143-6RFX 
+0
+5
+5
 My_Footprints
 RF_CONN_LINX_CONSMA002-SMD-G-T
 
