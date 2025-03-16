@@ -3721,6 +3721,7 @@
 	)
 	(label "DIO2"
 		(at 195.58 102.87 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3731,6 +3732,7 @@
 	)
 	(label "VR_PA"
 		(at 100.33 40.64 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3741,6 +3743,7 @@
 	)
 	(label "DIO2"
 		(at 49.53 99.06 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3751,6 +3754,7 @@
 	)
 	(label "ANT_SW"
 		(at 195.58 41.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3761,6 +3765,7 @@
 	)
 	(label "XTA"
 		(at 45.72 76.2 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3771,6 +3776,7 @@
 	)
 	(label "DIO3"
 		(at 49.53 83.82 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3781,6 +3787,7 @@
 	)
 	(label "XTB"
 		(at 45.72 78.74 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
