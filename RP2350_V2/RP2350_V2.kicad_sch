@@ -8578,10 +8578,6 @@
 		(uuid "4a93a07a-855c-4cf1-bc9e-ecedc43f5901")
 	)
 	(no_connect
-		(at 364.49 157.48)
-		(uuid "4ab26097-57c7-4846-a455-6bd817c612af")
-	)
-	(no_connect
 		(at 50.8 254)
 		(uuid "4f34e2f4-5a1a-4f81-99bd-345899374c23")
 	)
@@ -9362,6 +9358,16 @@
 			(type default)
 		)
 		(uuid "249e1486-0834-4d9f-9cf6-56113f3b19c4")
+	)
+	(wire
+		(pts
+			(xy 378.46 156.21) (xy 378.46 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24d0cccc-3b7f-4448-8133-b2ba7e750494")
 	)
 	(wire
 		(pts
@@ -11455,6 +11461,16 @@
 	)
 	(wire
 		(pts
+			(xy 378.46 157.48) (xy 374.65 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a098064a-72e0-484c-b1cc-ff4a54ed6348")
+	)
+	(wire
+		(pts
 			(xy 187.96 81.28) (xy 200.66 81.28)
 		)
 		(stroke
@@ -12272,6 +12288,16 @@
 			(type default)
 		)
 		(uuid "d79a4acb-31f7-4ca4-8536-33998d762549")
+	)
+	(wire
+		(pts
+			(xy 364.49 157.48) (xy 367.03 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d927d5d8-8423-4c40-9a3d-3b60bf9b2568")
 	)
 	(wire
 		(pts
@@ -14500,91 +14526,6 @@
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8"
 					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 119.38 163.83 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "09aa5c9e-31b9-4767-b844-b45a70e1513d")
-		(property "Reference" "R31"
-			(at 116.84 164.084 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 121.666 163.576 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 117.602 163.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 119.38 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 119.38 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C25744"
-			(at 119.38 163.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" ""
-			(at 119.38 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2f771f2f-0515-42a9-8e0c-3f8ff1217daa")
-		)
-		(pin "2"
-			(uuid "58a692b9-41ac-459e-a1b9-48b638054391")
-		)
-		(instances
-			(project "RP2350_V2"
-				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8"
-					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -18409,6 +18350,91 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 370.84 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "492c99c7-6350-42cd-b615-8fd3dc0a2533")
+		(property "Reference" "R40"
+			(at 370.84 160.274 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 370.84 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 370.84 159.258 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 370.84 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 370.84 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C11702"
+			(at 370.84 157.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 370.84 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "742716cd-f9c1-48a1-9b49-ff3e6ce61fa9")
+		)
+		(pin "2"
+			(uuid "720edd35-9c83-4998-92ef-4e1fb52b5bae")
+		)
+		(instances
+			(project "RP2350_V2"
+				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8"
+					(reference "R40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 82.55 166.37 0)
 		(mirror y)
 		(unit 1)
@@ -19717,6 +19743,91 @@
 			(project "RP2350_V1"
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8"
 					(reference "C11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 119.38 163.83 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5692fea3-db9f-4194-a479-75c0cbdcc94f")
+		(property "Reference" "R41"
+			(at 122.174 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 115.57 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 121.158 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 119.38 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 119.38 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C11702"
+			(at 119.38 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 119.38 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1ff52ee3-fa98-47c6-a4c5-7c2777f61f33")
+		)
+		(pin "2"
+			(uuid "b53dfae3-ab39-4179-8e27-fe44e71d8653")
+		)
+		(instances
+			(project "RP2350_V2"
+				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8"
+					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -24041,6 +24152,71 @@
 			(project ""
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8"
 					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 378.46 156.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a37c41d3-fd66-4866-9c3c-ed9f0a8f5de6")
+		(property "Reference" "#PWR094"
+			(at 378.46 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 377.698 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 378.46 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 378.46 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 378.46 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "db3b6df5-8b47-4603-ad83-a0d31ee8ec5c")
+		)
+		(instances
+			(project "RP2350_V2"
+				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8"
+					(reference "#PWR094")
 					(unit 1)
 				)
 			)
