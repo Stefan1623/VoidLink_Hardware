@@ -10371,7 +10371,7 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 142.24) (xy 373.38 142.24)
+			(xy 364.49 149.86) (xy 373.38 149.86)
 		)
 		(stroke
 			(width 0)
@@ -10441,7 +10441,7 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 147.32) (xy 373.38 147.32)
+			(xy 364.49 144.78) (xy 373.38 144.78)
 		)
 		(stroke
 			(width 0)
@@ -11161,7 +11161,7 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 144.78) (xy 373.38 144.78)
+			(xy 364.49 142.24) (xy 373.38 142.24)
 		)
 		(stroke
 			(width 0)
@@ -12511,7 +12511,7 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 149.86) (xy 373.38 149.86)
+			(xy 364.49 147.32) (xy 373.38 147.32)
 		)
 		(stroke
 			(width 0)
@@ -13179,7 +13179,7 @@
 		(uuid "0934aa85-d9c3-4370-bf9b-841ee6be0298")
 	)
 	(label "SPI1_CS"
-		(at 373.38 144.78 0)
+		(at 373.38 142.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13399,7 +13399,7 @@
 		(uuid "3bc2ee46-b1ad-4143-8a40-456d2ee79f70")
 	)
 	(label "DISPLAY_DC"
-		(at 373.38 142.24 0)
+		(at 373.38 149.86 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13619,7 +13619,7 @@
 		(uuid "747854d0-e59f-4701-bc8f-039d8fb14f0d")
 	)
 	(label "SPI1_TX"
-		(at 373.38 149.86 0)
+		(at 373.38 147.32 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13663,7 +13663,7 @@
 		(uuid "80faf3ec-638f-401c-94b2-3d39fa7b8ca9")
 	)
 	(label "SPI1_CLK"
-		(at 373.38 147.32 0)
+		(at 373.38 144.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
