@@ -9851,16 +9851,6 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 176.53) (xy 66.04 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "410c5042-5ae0-4f8a-930e-e528b2a0aacd")
-	)
-	(wire
-		(pts
 			(xy 327.66 35.56) (xy 339.09 35.56)
 		)
 		(stroke
@@ -10198,6 +10188,16 @@
 			(type default)
 		)
 		(uuid "5709cb40-e7aa-41bb-a334-0c15fc5b0828")
+	)
+	(wire
+		(pts
+			(xy 66.04 176.53) (xy 66.04 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5788f6a4-b5a8-4d1c-988d-a0ad314bada8")
 	)
 	(wire
 		(pts
@@ -11068,16 +11068,6 @@
 			(type default)
 		)
 		(uuid "8e2241cf-c105-46da-be48-2a47b5881c91")
-	)
-	(wire
-		(pts
-			(xy 63.5 195.58) (xy 63.5 198.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8eb96a05-ce40-4701-b242-33ed6ca74714")
 	)
 	(wire
 		(pts
@@ -12521,7 +12511,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 173.99) (xy 63.5 175.26)
+			(xy 63.5 173.99) (xy 63.5 177.8)
 		)
 		(stroke
 			(width 0)
@@ -13065,9 +13055,9 @@
 		)
 		(uuid "9d47c938-9aec-4308-afa1-fca8f5618b7b")
 	)
-	(text "Orange\n2V\n30mA"
+	(text "Emerald\n2.8V\n5mA"
 		(exclude_from_sim no)
-		(at 69.088 177.546 0)
+		(at 68.834 177.038 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13076,9 +13066,9 @@
 		)
 		(uuid "a20ac7d2-b825-4e98-a931-f978ea51b9f4")
 	)
-	(text "Red\n2V\n25mA"
+	(text "Yellow\n2.7V\n5mA"
 		(exclude_from_sim no)
-		(at 92.71 177.546 0)
+		(at 92.964 179.578 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13125,6 +13115,7 @@
 	)
 	(label "UART_Rx_DEBUG"
 		(at 189.23 41.91 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13135,6 +13126,7 @@
 	)
 	(label "PG"
 		(at 257.81 236.22 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13145,6 +13137,7 @@
 	)
 	(label "QSPI_SCLK"
 		(at 288.29 115.57 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13155,6 +13148,7 @@
 	)
 	(label "DISPLAY_DC"
 		(at 185.42 115.57 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13165,6 +13159,7 @@
 	)
 	(label "SPI0_TX"
 		(at 187.96 71.12 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13175,6 +13170,7 @@
 	)
 	(label "SPI1_CS"
 		(at 373.38 142.24 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13185,6 +13181,7 @@
 	)
 	(label "BTN_MACRO_A"
 		(at 373.38 93.98 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13195,6 +13192,7 @@
 	)
 	(label "CS{slash}NSS"
 		(at 187.96 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13205,6 +13203,7 @@
 	)
 	(label "USB_D+"
 		(at 55.88 243.84 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13215,6 +13214,7 @@
 	)
 	(label "SWD"
 		(at 189.23 93.98 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13225,6 +13225,7 @@
 	)
 	(label "USB_D-"
 		(at 55.88 238.76 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13235,6 +13236,7 @@
 	)
 	(label "Converter_Out"
 		(at 260.35 223.52 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13245,6 +13247,7 @@
 	)
 	(label "QSPI_SD2"
 		(at 288.29 109.22 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13255,6 +13258,7 @@
 	)
 	(label "QSPI_SD0"
 		(at 288.29 104.14 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13265,6 +13269,7 @@
 	)
 	(label "~{USB_BOOT}"
 		(at 264.16 100.33 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13275,6 +13280,7 @@
 	)
 	(label "STATUS_LED"
 		(at 26.67 165.1 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13285,6 +13291,7 @@
 	)
 	(label "SPI1_CLK"
 		(at 185.42 120.65 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13295,6 +13302,7 @@
 	)
 	(label "QSPI_SS"
 		(at 288.29 100.33 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13305,6 +13313,7 @@
 	)
 	(label "UART_Rx_DEBUG"
 		(at 373.38 91.44 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13315,6 +13324,7 @@
 	)
 	(label "BTN_MACRO_A"
 		(at 90.17 41.91 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13325,6 +13335,7 @@
 	)
 	(label "STATUS_LED"
 		(at 373.38 134.62 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13335,6 +13346,7 @@
 	)
 	(label "QSPI_SD1"
 		(at 288.29 106.68 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13345,6 +13357,7 @@
 	)
 	(label "UART_Tx_DEBUG"
 		(at 189.23 36.83 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13355,6 +13368,7 @@
 	)
 	(label "UART_Tx_DEBUG"
 		(at 373.38 88.9 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13365,6 +13379,7 @@
 	)
 	(label "VBUS_5V"
 		(at 59.69 162.56 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13375,6 +13390,7 @@
 	)
 	(label "DISPLAY_DC"
 		(at 373.38 149.86 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13385,6 +13401,7 @@
 	)
 	(label "VBAT"
 		(at 90.17 157.48 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13395,6 +13412,7 @@
 	)
 	(label "VBUS_5V"
 		(at 48.26 160.02 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13405,6 +13423,7 @@
 	)
 	(label "DISPLAY_RESET"
 		(at 185.42 113.03 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13415,6 +13434,7 @@
 	)
 	(label "DISPLAY_BUSY"
 		(at 373.38 137.16 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13425,6 +13445,7 @@
 	)
 	(label "UVLO_RST"
 		(at 82.55 162.56 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13435,6 +13456,7 @@
 	)
 	(label "BTN_OK"
 		(at 163.83 74.93 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13445,6 +13467,7 @@
 	)
 	(label "QSPI_SD3"
 		(at 273.05 194.31 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13455,6 +13478,7 @@
 	)
 	(label "UVLO_RST"
 		(at 379.73 215.9 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13465,6 +13489,7 @@
 	)
 	(label "QSPI_SCLK"
 		(at 215.9 191.77 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13475,6 +13500,7 @@
 	)
 	(label "SWD"
 		(at 289.56 156.21 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13485,6 +13511,7 @@
 	)
 	(label "COMP_FSET"
 		(at 229.87 238.76 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13495,6 +13522,7 @@
 	)
 	(label "BTN_BACK"
 		(at 166.37 40.64 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13505,6 +13533,7 @@
 	)
 	(label "BTN_MACRO_B"
 		(at 90.17 76.2 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13515,6 +13544,7 @@
 	)
 	(label "QSPI_SD3"
 		(at 288.29 111.76 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13525,6 +13555,7 @@
 	)
 	(label "uC_BUSY"
 		(at 187.96 78.74 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13535,6 +13566,7 @@
 	)
 	(label "RUN"
 		(at 293.37 142.24 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13545,6 +13577,7 @@
 	)
 	(label "VBAT"
 		(at 66.04 156.21 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13555,6 +13588,7 @@
 	)
 	(label "SPI0_CLK"
 		(at 187.96 68.58 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13565,6 +13599,7 @@
 	)
 	(label "SWCLK"
 		(at 289.56 153.67 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13575,6 +13610,7 @@
 	)
 	(label "SPI1_TX"
 		(at 373.38 147.32 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13585,6 +13621,7 @@
 	)
 	(label "DIO1"
 		(at 187.96 81.28 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13595,6 +13632,7 @@
 	)
 	(label "BTN_MACRO_C"
 		(at 373.38 106.68 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13605,6 +13643,7 @@
 	)
 	(label "FB"
 		(at 257.81 231.14 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13615,6 +13654,7 @@
 	)
 	(label "SPI1_CLK"
 		(at 373.38 144.78 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13625,6 +13665,7 @@
 	)
 	(label "SPI1_TX"
 		(at 185.42 123.19 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13635,6 +13676,7 @@
 	)
 	(label "VBUS_5V"
 		(at 52.07 223.52 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13645,6 +13687,7 @@
 	)
 	(label "XIN"
 		(at 294.64 124.46 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13655,6 +13698,7 @@
 	)
 	(label "QSPI_SS"
 		(at 215.9 186.69 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13665,6 +13709,7 @@
 	)
 	(label "QSPI_SD0"
 		(at 273.05 184.15 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13675,6 +13720,7 @@
 	)
 	(label "UVLO_RST"
 		(at 113.03 156.21 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13685,6 +13731,7 @@
 	)
 	(label "USB_D-"
 		(at 396.24 81.28 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13695,6 +13742,7 @@
 	)
 	(label "USB_CC1"
 		(at 52.07 228.6 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13705,6 +13753,7 @@
 	)
 	(label "DISPLAY_BUSY"
 		(at 185.42 110.49 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13715,6 +13764,7 @@
 	)
 	(label "SPI1_CS"
 		(at 185.42 118.11 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13725,6 +13775,7 @@
 	)
 	(label "QSPI_SD2"
 		(at 273.05 191.77 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13735,6 +13786,7 @@
 	)
 	(label "USB_D+"
 		(at 396.24 72.39 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13745,6 +13797,7 @@
 	)
 	(label "VREG_LX"
 		(at 287.02 90.17 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13755,6 +13808,7 @@
 	)
 	(label "USB_CC2"
 		(at 52.07 231.14 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13765,6 +13819,7 @@
 	)
 	(label "BTN_OK"
 		(at 373.38 101.6 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13775,6 +13830,7 @@
 	)
 	(label "XOUT"
 		(at 294.64 129.54 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13785,6 +13841,7 @@
 	)
 	(label "BTN_MACRO_B"
 		(at 373.38 96.52 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13795,6 +13852,7 @@
 	)
 	(label "BTN_NEXT"
 		(at 166.37 105.41 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13805,6 +13863,7 @@
 	)
 	(label "DISPLAY_RESET"
 		(at 373.38 139.7 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13815,6 +13874,7 @@
 	)
 	(label "VBAT"
 		(at 137.16 240.03 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13825,6 +13885,7 @@
 	)
 	(label "QSPI_SD1"
 		(at 273.05 186.69 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13835,6 +13896,7 @@
 	)
 	(label "uC_RESET"
 		(at 187.96 76.2 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13845,6 +13907,7 @@
 	)
 	(label "SWCLK"
 		(at 189.23 88.9 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13855,6 +13918,7 @@
 	)
 	(label "BTN_MACRO_C"
 		(at 90.17 106.68 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13865,6 +13929,7 @@
 	)
 	(label "SPI0_RX"
 		(at 187.96 73.66 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13875,6 +13940,7 @@
 	)
 	(label "Converter_In"
 		(at 214.63 223.52 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13885,6 +13951,7 @@
 	)
 	(label "RUN_IN"
 		(at 278.13 142.24 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13895,6 +13962,7 @@
 	)
 	(label "RUN"
 		(at 119.38 156.21 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13905,6 +13973,7 @@
 	)
 	(label "BTN_BACK"
 		(at 373.38 99.06 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13915,6 +13984,7 @@
 	)
 	(label "VREG_AVDD"
 		(at 288.925 67.31 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13925,6 +13995,7 @@
 	)
 	(label "BTN_NEXT"
 		(at 373.38 104.14 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14177,7 +14248,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LTST-C190KRKT"
+		(property "Value" "LTW-C193DS5-ND"
 			(at 93.218 157.48 0)
 			(effects
 				(font
@@ -25517,7 +25588,7 @@
 	)
 	(symbol
 		(lib_id "My_Library:DMP1045U-7")
-		(at 63.5 175.26 90)
+		(at 63.5 177.8 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -25526,7 +25597,7 @@
 		(dnp no)
 		(uuid "bfc21ec7-7219-4c17-8405-8618956c4e3e")
 		(property "Reference" "IC6"
-			(at 56.642 185.42 0)
+			(at 56.642 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25534,7 +25605,7 @@
 			)
 		)
 		(property "Value" "DMP1045U-7"
-			(at 58.928 185.42 0)
+			(at 58.928 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25542,7 +25613,7 @@
 			)
 		)
 		(property "Footprint" "My_Footprints:SOT96P240X110-3N"
-			(at 158.42 191.77 0)
+			(at 158.42 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25552,7 +25623,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com//assets/Datasheets/DMP1045U.pdf"
-			(at 258.42 191.77 0)
+			(at 258.42 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25562,7 +25633,7 @@
 			)
 		)
 		(property "Description" "P-Channel Enhancement MOSFET SOT-23 Diodes Inc DMP1045U-7 P-channel MOSFET Transistor, 5.2 A, -12 V, 3-Pin SOT23"
-			(at 63.5 175.26 0)
+			(at 63.5 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25571,7 +25642,7 @@
 			)
 		)
 		(property "Height" "1.1"
-			(at 458.42 191.77 0)
+			(at 458.42 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25581,7 +25652,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Diodes Incorporated"
-			(at 558.42 191.77 0)
+			(at 558.42 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25591,7 +25662,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "DMP1045U-7"
-			(at 658.42 191.77 0)
+			(at 658.42 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25601,7 +25672,7 @@
 			)
 		)
 		(property "Mouser Part Number" "621-DMP1045U-7"
-			(at 758.42 191.77 0)
+			(at 758.42 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25611,7 +25682,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP1045U-7?qs=T%2FOtf55vL7eEKnIWhgMvTQ%3D%3D"
-			(at 858.42 191.77 0)
+			(at 858.42 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25621,7 +25692,7 @@
 			)
 		)
 		(property "Arrow Part Number" "DMP1045U-7"
-			(at 958.42 191.77 0)
+			(at 958.42 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25631,7 +25702,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/dmp1045u-7/diodes-incorporated?utm_currency=USD&region=asia"
-			(at 1058.42 191.77 0)
+			(at 1058.42 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25641,7 +25712,7 @@
 			)
 		)
 		(property "LCSC" "C177033"
-			(at 63.5 175.26 0)
+			(at 63.5 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25650,7 +25721,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 63.5 175.26 0)
+			(at 63.5 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26817,7 +26888,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LTST-C191KFKT"
+		(property "Value" "LTST-C193TGKT-5A"
 			(at 71.12 152.908 0)
 			(effects
 				(font
@@ -29053,7 +29124,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "88.7"
+		(property "Value" "20"
 			(at 87.884 163.83 90)
 			(effects
 				(font
@@ -29089,7 +29160,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C423126"
+		(property "LCSC" "C25089"
 			(at 90.17 161.29 90)
 			(effects
 				(font
