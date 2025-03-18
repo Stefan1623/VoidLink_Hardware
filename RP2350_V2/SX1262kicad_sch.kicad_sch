@@ -5039,7 +5039,7 @@
 			)
 			(project ""
 				(path "/7f0ba00e-9b42-4d85-a00a-8f4530ab07c8/374b7580-c712-4837-a7b5-2460a185bdb8"
-					(reference "XTAL1")
+					(reference "X2")
 					(unit 1)
 				)
 			)

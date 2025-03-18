@@ -37345,8 +37345,8 @@
 		(uuid "dfc002ee-d2b8-465f-b974-c4d99b8f1dfb")
 		(at 134.22 72.6325 180)
 		(tags "NX2016SA-32M-EXS00A-CS06465 ")
-		(property "Reference" "XTAL1"
-			(at 3.28 0.377559 90)
+		(property "Reference" "X2"
+			(at 3.31 0.1325 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "f8a5f76f-50ca-40e7-ade6-d6e5f15a98fc")
@@ -44356,6 +44356,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C5137195"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "facf0294-cfc5-4f17-a1dc-d05c47e8b359")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
